@@ -2,9 +2,9 @@
 
 Unsupervised Frame Induction LPCFG + Embedding
 
-To run the code, go to `dist` direcory and type in 
+To run the code, go to ```dist``` direcory and type in 
 
-`$ java -jar LPCFG_Unsupervised_Frame_Induction.jar ../input.feat.syntax ../pop-vectors.txt'
+```$ java -jar LPCFG_Unsupervised_Frame_Induction.jar ../input.feat.syntax ../pop-vectors.txt'``
 
 `input.feat.syntax` is the input file obtained from the provided frame structures and their dependency parses as one additional CATEGORICAL feature (see [1] for more). `pop-vectors.txt` is a set of embeddings based on [2].
 

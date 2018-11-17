@@ -12,9 +12,9 @@ The code will exploit all your CPU and it may require a good bit of ram (dependi
 One the job finished, the resulting clustering will be written to `output.txt` which you can evaluate using scorer and gold data. We use cardinal numbers as cluster identifier and strings in the form of `R^NNN` as the identifier for Semantic roles. You can exchange these symbols by your own scripts to more meaningful labels.
 
 
-For scorer see LINK to SCORER
+For scorer see https://github.com/languagerecipes/task-2-semeval-2019/tree/master/scorer
 
-For the gold data see LINK TO DATA
+For the gold data see https://competitions.codalab.org/competitions/19159
 
 The output can be used for evaluation in the 3 subtasks. For subtask 2.2, you can browse the source code and choose "Merging" of semantic rols. 
 

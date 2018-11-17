@@ -1,0 +1,201 @@
+
+run:
+Runing aim.sem.test.FrozenGoodEvaluateColdStartAverageOnDifferent
+
+Learning Iteration is set to 1
+*** Training is done ... Parsing and building results 
+numb of bin rules: 0.0
+numb of bin rules: 3213.0
+Heads: gi:5043.0 si:5043.0 gc:27.0 sc:167.0 pu:94.03 ipu:63.95 fpu:76.13 bcp:93.03 bcr:51.8 bcf:66.55 vm:82.67 pp:57.96 pr:95.92 pf:72.26 aRi:70.08 dst:74.65
+bhead: --- Baselines ---
+1h		gi:5043.0 si:5043.0 gc:27.0 sc:168.0 pu:94.31 ipu:59.37 fpu:72.87 bcp:93.47 bcr:47.8 bcf:63.26 vm:80.77 pp:36.94 pr:93.87 pf:53.02 aRi:50.3 dst:71.46
+1c		gi:5043.0 si:5043.0 gc:27.0 sc:1.0 pu:22.9 ipu:100 fpu:37.27 bcp:9.69 bcr:100 bcf:17.66 vm:� pp:100 pr:9.69 pf:17.66 aRi:0 dst:37.21
+r167		gi:5043.0 si:5043.0 gc:27.0 sc:167.0 pu:24.05 ipu:2.3 fpu:4.2 bcp:12.59 bcr:1.13 bcf:2.07 vm:10.34 pp:0.8 pr:12.5 pf:1.5 aRi:0.34 dst:3.25
+r2		gi:5043.0 si:5043.0 gc:27.0 sc:2.0 pu:22.9 ipu:52.85 fpu:31.96 bcp:9.7 bcr:50.3 bcf:16.26 vm:0.16 pp:50.1 pr:9.7 pf:16.26 aRi:0.03 dst:31.82
+---
+
+ARGS:  gi:7457.0 si:7457.0 gc:112.0 sc:541.0 pu:91.79 ipu:63.34 fpu:74.95 bcp:89.3 bcr:49.76 bcf:63.91 vm:84 pp:56.09 pr:92.9 pf:69.94 aRi:68.93 dst:71.43
+args: --- Baselines Args ---
+1h		gi:7457.0 si:7457.0 gc:112.0 sc:35.0 pu:38.66 ipu:90.53 fpu:54.18 bcp:23.51 bcr:84.61 bcf:36.8 vm:50.64 pp:88.72 pr:13.66 pf:23.67 aRi:17.48 dst:53.45
+1c		gi:7457.0 si:7457.0 gc:112.0 sc:1.0 pu:12.36 ipu:100 fpu:22.01 bcp:4.33 bcr:100 bcf:8.29 vm:� pp:100 pr:4.33 pf:8.29 aRi:0 dst:21.95
+r167		gi:7457.0 si:7457.0 gc:112.0 sc:541.0 pu:18.64 ipu:2.61 fpu:4.59 bcp:11.11 bcr:1.67 bcf:2.91 vm:26.85 pp:0.49 pr:10.7 pf:0.93 aRi:0.56 dst:2.03
+r2		gi:7457.0 si:7457.0 gc:112.0 sc:2.0 pu:12.36 ipu:53.79 fpu:20.11 bcp:4.34 bcr:50.87 bcf:7.99 vm:0.43 pp:50.15 pr:4.34 pf:7.98 aRi:0.02 dst:19.96
+---
+
+*** Training is done ... Parsing and building results 
+numb of bin rules: 0.0
+numb of bin rules: 3116.0
+Heads: gi:5043.0 si:5043.0 gc:27.0 sc:156.0 pu:92.78 ipu:69.4 fpu:79.41 bcp:91.61 bcr:56.8 bcf:70.12 vm:83.24 pp:60.04 pr:95.72 pf:73.79 aRi:71.68 dst:77.91
+bhead: --- Baselines ---
+1h		gi:5043.0 si:5043.0 gc:27.0 sc:168.0 pu:94.31 ipu:59.37 fpu:72.87 bcp:93.47 bcr:47.8 bcf:63.26 vm:80.77 pp:36.94 pr:93.87 pf:53.02 aRi:50.3 dst:71.46
+1c		gi:5043.0 si:5043.0 gc:27.0 sc:1.0 pu:22.9 ipu:100 fpu:37.27 bcp:9.69 bcr:100 bcf:17.66 vm:� pp:100 pr:9.69 pf:17.66 aRi:0 dst:37.21
+r156		gi:5043.0 si:5043.0 gc:27.0 sc:156.0 pu:23.72 ipu:2.42 fpu:4.39 bcp:12.34 bcr:1.17 bcf:2.13 vm:9.77 pp:0.84 pr:12.22 pf:1.57 aRi:0.33 dst:3.45
+r2		gi:5043.0 si:5043.0 gc:27.0 sc:2.0 pu:22.9 ipu:51.64 fpu:31.73 bcp:9.69 bcr:50.15 bcf:16.24 vm:0.09 pp:50.03 pr:9.69 pf:16.24 aRi:0.01 dst:31.59
+---
+
+ARGS:  gi:7457.0 si:7457.0 gc:112.0 sc:523.0 pu:91.14 ipu:65.82 fpu:76.43 bcp:88.4 bcr:52.13 bcf:65.58 vm:84.13 pp:55.78 pr:91.06 pf:69.18 aRi:68.13 dst:72.9
+args: --- Baselines Args ---
+1h		gi:7457.0 si:7457.0 gc:112.0 sc:35.0 pu:38.66 ipu:90.53 fpu:54.18 bcp:23.51 bcr:84.61 bcf:36.8 vm:50.64 pp:88.72 pr:13.66 pf:23.67 aRi:17.48 dst:53.45
+1c		gi:7457.0 si:7457.0 gc:112.0 sc:1.0 pu:12.36 ipu:100 fpu:22.01 bcp:4.33 bcr:100 bcf:8.29 vm:� pp:100 pr:4.33 pf:8.29 aRi:0 dst:21.95
+r156		gi:7457.0 si:7457.0 gc:112.0 sc:523.0 pu:18.55 ipu:2.61 fpu:4.58 bcp:10.96 bcr:1.69 bcf:2.92 vm:26.56 pp:0.5 pr:10.56 pf:0.95 aRi:0.56 dst:2.03
+r2		gi:7457.0 si:7457.0 gc:112.0 sc:2.0 pu:12.36 ipu:53.12 fpu:20.06 bcp:4.33 bcr:50.54 bcf:7.98 vm:0.28 pp:50.11 pr:4.34 pf:7.98 aRi:0.02 dst:19.91
+---
+
+*** Training is done ... Parsing and building results 
+numb of bin rules: 0.0
+numb of bin rules: 3207.0
+Heads: gi:5043.0 si:5043.0 gc:27.0 sc:164.0 pu:93.95 ipu:66.92 fpu:78.17 bcp:92.91 bcr:53.21 bcf:67.66 vm:82.44 pp:51.5 pr:95.67 pf:66.96 aRi:64.56 dst:76.66
+bhead: --- Baselines ---
+1h		gi:5043.0 si:5043.0 gc:27.0 sc:168.0 pu:94.31 ipu:59.37 fpu:72.87 bcp:93.47 bcr:47.8 bcf:63.26 vm:80.77 pp:36.94 pr:93.87 pf:53.02 aRi:50.3 dst:71.46
+1c		gi:5043.0 si:5043.0 gc:27.0 sc:1.0 pu:22.9 ipu:100 fpu:37.27 bcp:9.69 bcr:100 bcf:17.66 vm:� pp:100 pr:9.69 pf:17.66 aRi:0 dst:37.21
+r164		gi:5043.0 si:5043.0 gc:27.0 sc:164.0 pu:23.99 ipu:2.42 fpu:4.4 bcp:12.61 bcr:1.14 bcf:2.1 vm:10.23 pp:0.81 pr:12.49 pf:1.53 aRi:0.35 dst:3.45
+r2		gi:5043.0 si:5043.0 gc:27.0 sc:2.0 pu:22.9 ipu:53 fpu:31.99 bcp:9.71 bcr:50.35 bcf:16.28 vm:0.2 pp:50.15 pr:9.71 pf:16.27 aRi:0.06 dst:31.85
+---
+
+ARGS:  gi:7457.0 si:7457.0 gc:112.0 sc:535.0 pu:91.74 ipu:64.99 fpu:76.08 bcp:89.17 bcr:50.35 bcf:64.36 vm:83.8 pp:50.06 pr:90.48 pf:64.45 aRi:63.32 dst:72.52
+args: --- Baselines Args ---
+1h		gi:7457.0 si:7457.0 gc:112.0 sc:35.0 pu:38.66 ipu:90.53 fpu:54.18 bcp:23.51 bcr:84.61 bcf:36.8 vm:50.64 pp:88.72 pr:13.66 pf:23.67 aRi:17.48 dst:53.45
+1c		gi:7457.0 si:7457.0 gc:112.0 sc:1.0 pu:12.36 ipu:100 fpu:22.01 bcp:4.33 bcr:100 bcf:8.29 vm:� pp:100 pr:4.33 pf:8.29 aRi:0 dst:21.95
+r164		gi:7457.0 si:7457.0 gc:112.0 sc:535.0 pu:19.04 ipu:2.57 fpu:4.54 bcp:11.24 bcr:1.69 bcf:2.93 vm:26.87 pp:0.5 pr:10.76 pf:0.96 aRi:0.57 dst:1.97
+r2		gi:7457.0 si:7457.0 gc:112.0 sc:2.0 pu:12.36 ipu:54.82 fpu:20.18 bcp:4.35 bcr:51.01 bcf:8.02 vm:0.51 pp:50.3 pr:4.35 pf:8.01 aRi:0.05 dst:20.04
+---
+
+*** Training is done ... Parsing and building results 
+numb of bin rules: 0.0
+numb of bin rules: 3024.0
+Heads: gi:5043.0 si:5043.0 gc:27.0 sc:155.0 pu:93.91 ipu:68.79 fpu:79.41 bcp:92.96 bcr:57.06 bcf:70.72 vm:84.16 pp:66.89 pr:96.51 pf:79.01 aRi:77.21 dst:77.94
+bhead: --- Baselines ---
+1h		gi:5043.0 si:5043.0 gc:27.0 sc:168.0 pu:94.31 ipu:59.37 fpu:72.87 bcp:93.47 bcr:47.8 bcf:63.26 vm:80.77 pp:36.94 pr:93.87 pf:53.02 aRi:50.3 dst:71.46
+1c		gi:5043.0 si:5043.0 gc:27.0 sc:1.0 pu:22.9 ipu:100 fpu:37.27 bcp:9.69 bcr:100 bcf:17.66 vm:� pp:100 pr:9.69 pf:17.66 aRi:0 dst:37.21
+r155		gi:5043.0 si:5043.0 gc:27.0 sc:155.0 pu:24.09 ipu:2.58 fpu:4.66 bcp:12.57 bcr:1.2 bcf:2.2 vm:10.1 pp:0.86 pr:12.46 pf:1.6 aRi:0.36 dst:3.72
+r2		gi:5043.0 si:5043.0 gc:27.0 sc:2.0 pu:22.9 ipu:53 fpu:31.99 bcp:9.71 bcr:50.32 bcf:16.28 vm:0.18 pp:50.15 pr:9.71 pf:16.27 aRi:0.06 dst:31.85
+---
+
+ARGS:  gi:7457.0 si:7457.0 gc:112.0 sc:521.0 pu:91.67 ipu:66.38 fpu:77 bcp:89.29 bcr:53.01 bcf:66.52 vm:84.74 pp:63.45 pr:94.32 pf:75.86 aRi:74.99 dst:73.47
+args: --- Baselines Args ---
+1h		gi:7457.0 si:7457.0 gc:112.0 sc:35.0 pu:38.66 ipu:90.53 fpu:54.18 bcp:23.51 bcr:84.61 bcf:36.8 vm:50.64 pp:88.72 pr:13.66 pf:23.67 aRi:17.48 dst:53.45
+1c		gi:7457.0 si:7457.0 gc:112.0 sc:1.0 pu:12.36 ipu:100 fpu:22.01 bcp:4.33 bcr:100 bcf:8.29 vm:� pp:100 pr:4.33 pf:8.29 aRi:0 dst:21.95
+r155		gi:7457.0 si:7457.0 gc:112.0 sc:521.0 pu:18.99 ipu:2.66 fpu:4.66 bcp:11.14 bcr:1.69 bcf:2.94 vm:26.74 pp:0.51 pr:10.71 pf:0.97 aRi:0.58 dst:2.1
+r2		gi:7457.0 si:7457.0 gc:112.0 sc:2.0 pu:12.36 ipu:54.12 fpu:20.13 bcp:4.34 bcr:50.89 bcf:8 vm:0.46 pp:50.17 pr:4.34 pf:7.99 aRi:0.03 dst:19.99
+---
+
+*** Training is done ... Parsing and building results 
+numb of bin rules: 0.0
+numb of bin rules: 3220.0
+Heads: gi:5043.0 si:5043.0 gc:27.0 sc:160.0 pu:94.21 ipu:67.88 fpu:78.9 bcp:93.17 bcr:54.76 bcf:68.98 vm:82.95 pp:58.53 pr:97.61 pf:73.18 aRi:71.08 dst:77.42
+bhead: --- Baselines ---
+1h		gi:5043.0 si:5043.0 gc:27.0 sc:168.0 pu:94.31 ipu:59.37 fpu:72.87 bcp:93.47 bcr:47.8 bcf:63.26 vm:80.77 pp:36.94 pr:93.87 pf:53.02 aRi:50.3 dst:71.46
+1c		gi:5043.0 si:5043.0 gc:27.0 sc:1.0 pu:22.9 ipu:100 fpu:37.27 bcp:9.69 bcr:100 bcf:17.66 vm:� pp:100 pr:9.69 pf:17.66 aRi:0 dst:37.21
+r160		gi:5043.0 si:5043.0 gc:27.0 sc:160.0 pu:23.99 ipu:2.26 fpu:4.13 bcp:12.4 bcr:1.14 bcf:2.09 vm:9.91 pp:0.82 pr:12.22 pf:1.53 aRi:0.32 dst:3.19
+r2		gi:5043.0 si:5043.0 gc:27.0 sc:2.0 pu:22.9 ipu:52.13 fpu:31.82 bcp:9.7 bcr:50.25 bcf:16.25 vm:0.15 pp:50.05 pr:9.7 pf:16.24 aRi:0.02 dst:31.69
+---
+
+ARGS:  gi:7457.0 si:7457.0 gc:112.0 sc:537.0 pu:92.09 ipu:65.75 fpu:76.72 bcp:89.44 bcr:51.48 bcf:65.35 vm:84.09 pp:55.35 pr:92.23 pf:69.18 aRi:68.15 dst:73.14
+args: --- Baselines Args ---
+1h		gi:7457.0 si:7457.0 gc:112.0 sc:35.0 pu:38.66 ipu:90.53 fpu:54.18 bcp:23.51 bcr:84.61 bcf:36.8 vm:50.64 pp:88.72 pr:13.66 pf:23.67 aRi:17.48 dst:53.45
+1c		gi:7457.0 si:7457.0 gc:112.0 sc:1.0 pu:12.36 ipu:100 fpu:22.01 bcp:4.33 bcr:100 bcf:8.29 vm:� pp:100 pr:4.33 pf:8.29 aRi:0 dst:21.95
+r160		gi:7457.0 si:7457.0 gc:112.0 sc:537.0 pu:18.73 ipu:2.56 fpu:4.51 bcp:11.16 bcr:1.68 bcf:2.92 vm:26.78 pp:0.49 pr:10.66 pf:0.94 aRi:0.56 dst:1.94
+r2		gi:7457.0 si:7457.0 gc:112.0 sc:2.0 pu:12.36 ipu:52.97 fpu:20.05 bcp:4.33 bcr:50.55 bcf:7.98 vm:0.29 pp:50.09 pr:4.33 pf:7.98 aRi:0.02 dst:19.9
+---
+
+*** Training is done ... Parsing and building results 
+numb of bin rules: 0.0
+numb of bin rules: 3184.0
+Heads: gi:5043.0 si:5043.0 gc:27.0 sc:162.0 pu:93.87 ipu:62.54 fpu:75.07 bcp:92.88 bcr:49.73 bcf:64.77 vm:82.29 pp:52.24 pr:95.54 pf:67.55 aRi:65.16 dst:73.64
+bhead: --- Baselines ---
+1h		gi:5043.0 si:5043.0 gc:27.0 sc:168.0 pu:94.31 ipu:59.37 fpu:72.87 bcp:93.47 bcr:47.8 bcf:63.26 vm:80.77 pp:36.94 pr:93.87 pf:53.02 aRi:50.3 dst:71.46
+1c		gi:5043.0 si:5043.0 gc:27.0 sc:1.0 pu:22.9 ipu:100 fpu:37.27 bcp:9.69 bcr:100 bcf:17.66 vm:� pp:100 pr:9.69 pf:17.66 aRi:0 dst:37.21
+r162		gi:5043.0 si:5043.0 gc:27.0 sc:162.0 pu:23.74 ipu:2.4 fpu:4.36 bcp:12.54 bcr:1.14 bcf:2.09 vm:10.12 pp:0.82 pr:12.45 pf:1.53 aRi:0.34 dst:3.42
+r2		gi:5043.0 si:5043.0 gc:27.0 sc:2.0 pu:22.9 ipu:52.45 fpu:31.88 bcp:9.7 bcr:50.19 bcf:16.26 vm:0.11 pp:50.1 pr:9.71 pf:16.26 aRi:0.04 dst:31.75
+---
+
+ARGS:  gi:7457.0 si:7457.0 gc:112.0 sc:535.0 pu:91.73 ipu:60.06 fpu:72.59 bcp:89.18 bcr:46.72 bcf:61.32 vm:83.51 pp:48.7 pr:90.22 pf:63.25 aRi:62.1 dst:69.2
+args: --- Baselines Args ---
+1h		gi:7457.0 si:7457.0 gc:112.0 sc:35.0 pu:38.66 ipu:90.53 fpu:54.18 bcp:23.51 bcr:84.61 bcf:36.8 vm:50.64 pp:88.72 pr:13.66 pf:23.67 aRi:17.48 dst:53.45
+1c		gi:7457.0 si:7457.0 gc:112.0 sc:1.0 pu:12.36 ipu:100 fpu:22.01 bcp:4.33 bcr:100 bcf:8.29 vm:� pp:100 pr:4.33 pf:8.29 aRi:0 dst:21.95
+r162		gi:7457.0 si:7457.0 gc:112.0 sc:535.0 pu:18.95 ipu:2.61 fpu:4.6 bcp:11.33 bcr:1.69 bcf:2.94 vm:27.07 pp:0.5 pr:10.88 pf:0.96 aRi:0.58 dst:2.03
+r2		gi:7457.0 si:7457.0 gc:112.0 sc:2.0 pu:12.36 ipu:53.29 fpu:20.07 bcp:4.34 bcr:50.74 bcf:7.99 vm:0.38 pp:50.14 pr:4.34 pf:7.98 aRi:0.02 dst:19.93
+---
+
+*** Training is done ... Parsing and building results 
+numb of bin rules: 0.0
+numb of bin rules: 3145.0
+Heads: gi:5043.0 si:5043.0 gc:27.0 sc:164.0 pu:94.05 ipu:68.71 fpu:79.41 bcp:93.01 bcr:57.69 bcf:71.21 vm:83.56 pp:66.49 pr:97.71 pf:79.13 aRi:77.36 dst:77.88
+bhead: --- Baselines ---
+1h		gi:5043.0 si:5043.0 gc:27.0 sc:168.0 pu:94.31 ipu:59.37 fpu:72.87 bcp:93.47 bcr:47.8 bcf:63.26 vm:80.77 pp:36.94 pr:93.87 pf:53.02 aRi:50.3 dst:71.46
+1c		gi:5043.0 si:5043.0 gc:27.0 sc:1.0 pu:22.9 ipu:100 fpu:37.27 bcp:9.69 bcr:100 bcf:17.66 vm:� pp:100 pr:9.69 pf:17.66 aRi:0 dst:37.21
+r164		gi:5043.0 si:5043.0 gc:27.0 sc:164.0 pu:24.17 ipu:2.22 fpu:4.07 bcp:12.69 bcr:1.14 bcf:2.09 vm:10.33 pp:0.82 pr:12.6 pf:1.54 aRi:0.36 dst:3.12
+r2		gi:5043.0 si:5043.0 gc:27.0 sc:2.0 pu:22.9 ipu:52.73 fpu:31.93 bcp:9.71 bcr:50.21 bcf:16.27 vm:0.12 pp:50.14 pr:9.71 pf:16.27 aRi:0.05 dst:31.8
+---
+
+ARGS:  gi:7457.0 si:7457.0 gc:112.0 sc:536.0 pu:91.89 ipu:65.59 fpu:76.54 bcp:89.25 bcr:52.87 bcf:66.41 vm:84.25 pp:61.14 pr:92.83 pf:73.73 aRi:72.79 dst:72.97
+args: --- Baselines Args ---
+1h		gi:7457.0 si:7457.0 gc:112.0 sc:35.0 pu:38.66 ipu:90.53 fpu:54.18 bcp:23.51 bcr:84.61 bcf:36.8 vm:50.64 pp:88.72 pr:13.66 pf:23.67 aRi:17.48 dst:53.45
+1c		gi:7457.0 si:7457.0 gc:112.0 sc:1.0 pu:12.36 ipu:100 fpu:22.01 bcp:4.33 bcr:100 bcf:8.29 vm:� pp:100 pr:4.33 pf:8.29 aRi:0 dst:21.95
+r164		gi:7457.0 si:7457.0 gc:112.0 sc:536.0 pu:18.84 ipu:2.55 fpu:4.49 bcp:11.16 bcr:1.67 bcf:2.91 vm:26.9 pp:0.49 pr:10.78 pf:0.94 aRi:0.57 dst:1.92
+r2		gi:7457.0 si:7457.0 gc:112.0 sc:2.0 pu:12.36 ipu:53.76 fpu:20.1 bcp:4.34 bcr:50.71 bcf:8 vm:0.36 pp:50.2 pr:4.34 pf:8 aRi:0.04 dst:19.96
+---
+
+*** Training is done ... Parsing and building results 
+numb of bin rules: 0.0
+numb of bin rules: 3231.0
+Heads: gi:5043.0 si:5043.0 gc:27.0 sc:171.0 pu:94.39 ipu:68.95 fpu:79.69 bcp:93.28 bcr:55.98 bcf:69.97 vm:83.46 pp:58.35 pr:96 pf:72.58 aRi:70.42 dst:78.1
+bhead: --- Baselines ---
+1h		gi:5043.0 si:5043.0 gc:27.0 sc:168.0 pu:94.31 ipu:59.37 fpu:72.87 bcp:93.47 bcr:47.8 bcf:63.26 vm:80.77 pp:36.94 pr:93.87 pf:53.02 aRi:50.3 dst:71.46
+1c		gi:5043.0 si:5043.0 gc:27.0 sc:1.0 pu:22.9 ipu:100 fpu:37.27 bcp:9.69 bcr:100 bcf:17.66 vm:� pp:100 pr:9.69 pf:17.66 aRi:0 dst:37.21
+r171		gi:5043.0 si:5043.0 gc:27.0 sc:171.0 pu:24.57 ipu:2.28 fpu:4.17 bcp:12.76 bcr:1.12 bcf:2.06 vm:10.69 pp:0.79 pr:12.71 pf:1.49 aRi:0.36 dst:3.22
+r2		gi:5043.0 si:5043.0 gc:27.0 sc:2.0 pu:22.9 ipu:52.33 fpu:31.86 bcp:9.7 bcr:50.33 bcf:16.27 vm:0.18 pp:50.07 pr:9.7 pf:16.25 aRi:0.02 dst:31.72
+---
+
+ARGS:  gi:7457.0 si:7457.0 gc:112.0 sc:551.0 pu:91.94 ipu:66.42 fpu:77.12 bcp:89.49 bcr:52.19 bcf:65.93 vm:84.35 pp:55.18 pr:91.19 pf:68.75 aRi:67.7 dst:73.45
+args: --- Baselines Args ---
+1h		gi:7457.0 si:7457.0 gc:112.0 sc:35.0 pu:38.66 ipu:90.53 fpu:54.18 bcp:23.51 bcr:84.61 bcf:36.8 vm:50.64 pp:88.72 pr:13.66 pf:23.67 aRi:17.48 dst:53.45
+1c		gi:7457.0 si:7457.0 gc:112.0 sc:1.0 pu:12.36 ipu:100 fpu:22.01 bcp:4.33 bcr:100 bcf:8.29 vm:� pp:100 pr:4.33 pf:8.29 aRi:0 dst:21.95
+r171		gi:7457.0 si:7457.0 gc:112.0 sc:551.0 pu:18.83 ipu:2.55 fpu:4.49 bcp:11.3 bcr:1.67 bcf:2.91 vm:27.04 pp:0.49 pr:10.77 pf:0.93 aRi:0.56 dst:1.92
+r2		gi:7457.0 si:7457.0 gc:112.0 sc:2.0 pu:12.36 ipu:53.86 fpu:20.11 bcp:4.34 bcr:50.79 bcf:7.99 vm:0.39 pp:50.15 pr:4.34 pf:7.98 aRi:0.02 dst:19.97
+---
+
+*** Training is done ... Parsing and building results 
+numb of bin rules: 0.0
+numb of bin rules: 3103.0
+Heads: gi:5043.0 si:5043.0 gc:27.0 sc:156.0 pu:93.71 ipu:71.49 fpu:81.1 bcp:92.64 bcr:59.55 bcf:72.5 vm:84.3 pp:67.46 pr:96.56 pf:79.43 aRi:77.65 dst:79.59
+bhead: --- Baselines ---
+1h		gi:5043.0 si:5043.0 gc:27.0 sc:168.0 pu:94.31 ipu:59.37 fpu:72.87 bcp:93.47 bcr:47.8 bcf:63.26 vm:80.77 pp:36.94 pr:93.87 pf:53.02 aRi:50.3 dst:71.46
+1c		gi:5043.0 si:5043.0 gc:27.0 sc:1.0 pu:22.9 ipu:100 fpu:37.27 bcp:9.69 bcr:100 bcf:17.66 vm:� pp:100 pr:9.69 pf:17.66 aRi:0 dst:37.21
+r156		gi:5043.0 si:5043.0 gc:27.0 sc:156.0 pu:23.82 ipu:2.28 fpu:4.16 bcp:12.53 bcr:1.18 bcf:2.16 vm:10 pp:0.85 pr:12.39 pf:1.59 aRi:0.35 dst:3.22
+r2		gi:5043.0 si:5043.0 gc:27.0 sc:2.0 pu:22.9 ipu:52.47 fpu:31.89 bcp:9.7 bcr:50.25 bcf:16.26 vm:0.15 pp:50.08 pr:9.7 pf:16.25 aRi:0.03 dst:31.75
+---
+
+ARGS:  gi:7457.0 si:7457.0 gc:112.0 sc:522.0 pu:91.51 ipu:68.55 fpu:78.39 bcp:88.98 bcr:55.18 bcf:68.12 vm:84.94 pp:63.36 pr:92.23 pf:75.12 aRi:74.21 dst:74.78
+args: --- Baselines Args ---
+1h		gi:7457.0 si:7457.0 gc:112.0 sc:35.0 pu:38.66 ipu:90.53 fpu:54.18 bcp:23.51 bcr:84.61 bcf:36.8 vm:50.64 pp:88.72 pr:13.66 pf:23.67 aRi:17.48 dst:53.45
+1c		gi:7457.0 si:7457.0 gc:112.0 sc:1.0 pu:12.36 ipu:100 fpu:22.01 bcp:4.33 bcr:100 bcf:8.29 vm:� pp:100 pr:4.33 pf:8.29 aRi:0 dst:21.95
+r156		gi:7457.0 si:7457.0 gc:112.0 sc:522.0 pu:18.72 ipu:2.67 fpu:4.67 bcp:11.06 bcr:1.69 bcf:2.93 vm:26.65 pp:0.5 pr:10.58 pf:0.96 aRi:0.57 dst:2.12
+r2		gi:7457.0 si:7457.0 gc:112.0 sc:2.0 pu:12.36 ipu:53.16 fpu:20.06 bcp:4.34 bcr:50.6 bcf:7.99 vm:0.31 pp:50.13 pr:4.34 pf:7.98 aRi:0.02 dst:19.92
+---
+
+*** Training is done ... Parsing and building results 
+numb of bin rules: 0.0
+numb of bin rules: 2988.0
+Heads: gi:5043.0 si:5043.0 gc:27.0 sc:157.0 pu:93.69 ipu:66.51 fpu:77.79 bcp:91.99 bcr:57.19 bcf:70.53 vm:83.69 pp:70.86 pr:93.13 pf:80.48 aRi:78.7 dst:76.34
+bhead: --- Baselines ---
+1h		gi:5043.0 si:5043.0 gc:27.0 sc:168.0 pu:94.31 ipu:59.37 fpu:72.87 bcp:93.47 bcr:47.8 bcf:63.26 vm:80.77 pp:36.94 pr:93.87 pf:53.02 aRi:50.3 dst:71.46
+1c		gi:5043.0 si:5043.0 gc:27.0 sc:1.0 pu:22.9 ipu:100 fpu:37.27 bcp:9.69 bcr:100 bcf:17.66 vm:� pp:100 pr:9.69 pf:17.66 aRi:0 dst:37.21
+r157		gi:5043.0 si:5043.0 gc:27.0 sc:157.0 pu:24.07 ipu:2.5 fpu:4.53 bcp:12.47 bcr:1.16 bcf:2.13 vm:9.88 pp:0.84 pr:12.31 pf:1.57 aRi:0.34 dst:3.59
+r2		gi:5043.0 si:5043.0 gc:27.0 sc:2.0 pu:22.9 ipu:51.93 fpu:31.79 bcp:9.7 bcr:50.19 bcf:16.25 vm:0.11 pp:50.06 pr:9.7 pf:16.25 aRi:0.02 dst:31.65
+---
+
+ARGS:  gi:7457.0 si:7457.0 gc:112.0 sc:510.0 pu:91.15 ipu:65.16 fpu:75.99 bcp:88.14 bcr:53.53 bcf:66.61 vm:84.58 pp:65.47 pr:90.83 pf:76.09 aRi:75.19 dst:72.54
+args: --- Baselines Args ---
+1h		gi:7457.0 si:7457.0 gc:112.0 sc:35.0 pu:38.66 ipu:90.53 fpu:54.18 bcp:23.51 bcr:84.61 bcf:36.8 vm:50.64 pp:88.72 pr:13.66 pf:23.67 aRi:17.48 dst:53.45
+1c		gi:7457.0 si:7457.0 gc:112.0 sc:1.0 pu:12.36 ipu:100 fpu:22.01 bcp:4.33 bcr:100 bcf:8.29 vm:� pp:100 pr:4.33 pf:8.29 aRi:0 dst:21.95
+r157		gi:7457.0 si:7457.0 gc:112.0 sc:510.0 pu:18.37 ipu:2.59 fpu:4.54 bcp:10.8 bcr:1.69 bcf:2.93 vm:26.27 pp:0.5 pr:10.4 pf:0.96 aRi:0.56 dst:1.99
+r2		gi:7457.0 si:7457.0 gc:112.0 sc:2.0 pu:12.36 ipu:53.32 fpu:20.07 bcp:4.34 bcr:50.71 bcf:7.99 vm:0.36 pp:50.14 pr:4.34 pf:7.98 aRi:0.02 dst:19.93
+---
+
+Average
+>> System Perfor  27.0 5043.0 161.2 5043.0 93.86 67.51 78.51 92.75 55.38 69.30 83.28 61.03 96.04 74.44 72.39 77.01 -7.753629847182336E46
+>> Baseline 1cph  27.0 5043.0 168.0 5043.0 94.31 59.37 72.87 93.47 47.80 63.26 80.77 36.94 93.87 53.02 50.30 71.46 0.0
+ 27/0 5043/0 161.2/5.35 5043/0 93.86/0.43 67.51/2.65 78.51/1.79 92.75/0.54 55.38/3 69.3/2.34 83.28/0.69 61.03/6.62 96.04/1.28 74.44/4.92 72.39/5.17 77.01/1.76 -775362984718233700000000000000000000000000000000/2451912873517812700000000000000000000000000000000
+59691 seconds
+BUILD SUCCESSFUL (total time: 994 minutes 57 seconds)

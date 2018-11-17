@@ -1,0 +1,600 @@
+#20059001 3 post.unknown gain-:-4-:-dobj 
+#20064023 2 begin.unknown Ford-:-1-:-nsubj install-:-3-:-xcomp 
+#22032014 4 value.unknown professional-:-9-:-nmod route-:-2-:-lscmpx 
+#21453043 25 fall.unknown dollar-:-24-:-nsubj 
+#21314008 8 buy.unknown they-:-7-:-nsubj McDonald_'s_,_Coca-Cola_Co._and_Procter_&_Gamble-:-9_10_11_12_13_14_15_16_17-:-dobj 
+#20725002 9 begin.unknown twist_together-:-10_11-:-xcomp they-:-1-:-lscmpx 
+#21099036 3 join.unknown he-:-15-:-rscmpx subsidiary-:-10-:-rscmpx 
+#20568024 15 buy.unknown customer-:-10-:-lscmpx supplier-:-20-:-nmod 
+#20632016 6 believe.unknown individual-:-1-:-nsubj seek-:-10-:-ccomp 
+#21845001 18 begin.unknown it-:-16-:-nsubj ship-:-19-:-xcomp 
+#21245002 14 buy.unknown joint_venture-:-11_12-:-lscmpx plant-:-16-:-dobj 
+#20553014 29 join.unknown he-:-1-:-lscmpx European_Monetary_System-:-31_32_33-:-dobj 
+#20787009 14 buy.unknown investor-:-8-:-lscmpx future_contract-:-18_19-:-dobj 
+#22144007 4 wrap.unknown plastic_lens-:-2_3-:-nsubj itself-:-5-:-dobj cornea-:-8-:-nmod 
+#20767022 3 believe.unknown we-:-2-:-nsubj find-:-8-:-ccomp 
+#20089020 5 start.unknown bell-:-3-:-dobj 
+#21026039 28 buy.unknown who-:-25-:-nsubj cotton-:-29-:-dobj 
+#20628001 4 buy.unknown owner-:-2-:-nsubj machinery-:-6-:-dobj 
+#22045038 18 buy.unknown that-:-9-:-lscmpx sugar-:-20-:-dobj 
+#20060002 8 buy.unknown that-:-7-:-nsubj Cosby_rerun-:-10_12-:-dobj 
+#20155029 7 buy.unknown sugar-:-8-:-dobj it-:-4-:-lscmpx 
+#21110001 6 fall_back.unknown order-:-2-:-nsubj 
+#21136017 17 post.unknown P&G-:-15-:-lscmpx net-:-18-:-dobj 
+#22045015 13 buy.unknown they-:-12-:-nsubj gold-:-14-:-dobj 
+#20688009 6 begin.unknown Mobil-:-4-:-nsubj offer-:-7-:-xcomp 
+#20450008 22 buy.unknown present-:-23-:-dobj he-:-1-:-lscmpx 
+#21250030 5 begin.unknown worker-:-2-:-lscmpx strike-:-6-:-xcomp 
+#21652023 11 fall.unknown $_1.29_billion-:-13_14_15-:-nmod $_1.69_billion-:-17_18_19-:-nmod net_income-:-9_10-:-nsubj 
+#20359001 16 buy.unknown investor-:-2-:-lscmpx share-:-17-:-dobj 
+#21470017 6 start.unknown graduate-:-4-:-nsubj job-:-7-:-dobj 
+#20786004 19 join.unknown Harry_J._Gray_and_Melvyn_N._Klein_along_with_IMA_designee-:-1_2_3_4_5_6_7_9_10_13_14-:-lscmpx board-:-24-:-dobj 
+#21450006 10 buy.unknown he-:-9-:-nsubj store-:-8-:-lscmpx 
+#20162043 8 rise.unknown net_income-:-2_3-:-nsubj its-:-1-:-lscmpx 41_%-:-10_11-:-dobj 
+#21424033 11 begin.unknown State_Department-:-2_3-:-nsubj distance-:-12-:-xcomp 
+#21401002 13 accompany.unknown chart-:-12-:-strngx column-:-20-:-dobj 
+#20994045 11 believe.unknown people-:-2-:-nsubj that-:-12-:-rscmpx 
+#21469016 9 fall.unknown 90_%-:-13_14-:-dobj sale-:-7-:-nsubj 
+#21730022 11 erupt.unknown protest-:-10-:-nsubj 
+#20155043 37 buy.unknown wheat-:-42-:-rscmpx government-:-22-:-lscmpx 
+#22061025 2 fall.unknown Citicorp-:-1-:-nsubj 1/2-:-3-:-dobj 32-:-5-:-nmod 
+#21161055 23 buy.unknown share-:-24-:-dobj 
+#21554039 15 buy.unknown feedlot_operator-:-12_13-:-nsubj they-:-8-:-lscmpx 
+#20557010 3 buy.unknown RJR-:-4-:-dobj KKR-:-2-:-nsubj 
+#21048008 4 buy.unknown share-:-7-:-dobj McCaw-:-1-:-lscmpx 
+#20985007 25 value.unknown gold-:-23-:-lscmpx currency-:-27-:-dobj 
+#21692045 16 join.unknown who-:-6-:-lscmpx McCutchen_Doyle_Brown_&_Enersen-:-17_19_21_22_23-:-dobj 
+#21274001 17 buy.unknown professional-:-8-:-lscmpx vodka_brandy_and_spirit-:-20_22_23_25-:-dobj 
+#20371002 43 buy.unknown which-:-39-:-lscmpx subsidiary-:-49-:-rscmpx 
+#21955002 24 buy.unknown holder-:-22-:-lscmpx share-:-25-:-dobj 
+#22125022 5 buy.unknown institution-:-2-:-lscmpx retail_paper-:-6_7-:-dobj 
+#20162039 10 begin.unknown company-:-8-:-lscmpx market-:-11-:-xcomp 
+#21139019 23 fall.unknown 14.1_%-:-24_25-:-dobj 8,355-:-27-:-nmod sale-:-18-:-nsubj 
+#20773004 11 join.unknown Waertsilae_Marine-:-9_10-:-nsubj rank-:-13-:-dobj 
+#20978012 12 buy.unknown stock-:-13-:-dobj it-:-8-:-lscmpx 
+#21146039 5 buy.unknown feed-:-6-:-dobj they-:-2-:-nsubj 
+#21026039 49 climb.unknown price-:-48-:-nsubj 74_cent-:-52_53-:-dobj 
+#21635049 6 buy.unknown institution-:-5-:-strngx asset-backed_issue-:-7_8-:-dobj 
+#21270028 15 build.unknown stadium-:-23-:-dobj 
+#20550011 19 wonder.unknown everyone-:-18-:-nsubj shoot-:-26-:-ccomp 
+#21659008 29 value.unknown deal-:-28-:-strngx 
+#21255004 7 begin.unknown FDA-:-6-:-nsubj detain-:-8-:-xcomp 
+#21949011 25 join.unknown Christopher_Whittington-:-14_15-:-lscmpx firm-:-29-:-rscmpx 
+#20155043 26 buy.unknown grain-:-28-:-dobj which-:-24-:-nsubj 
+#20488002 6 climb.unknown Dow_Jones_Industrial_Average-:-2_3_4_5-:-nsubj 6.76_point-:-7_8-:-dobj 
+#20118081 8 fall.unknown stockbroker-:-1-:-lscmpx business_and_pay-:-3_4_5-:-nsubj 
+#20719050 6 buy.unknown machine-:-9-:-dobj they-:-2-:-nsubj 
+#22055007 6 join.unknown Mr._Dannemiller-:-1_2-:-nsubj Bearings-:-7-:-dobj 
+#21065018 7 buy.unknown company-:-3-:-lscmpx one-:-9-:-dobj 
+#20922017 5 begin.unknown analyst-:-3-:-nsubj link-:-7-:-xcomp 
+#21782007 14 climb.unknown which-:-11-:-nsubj 
+#21245001 14 buy.unknown power-:-15-:-dobj Consumers_Power_Co.-:-1_2_3-:-lscmpx 
+#20295003 10 join.unknown Mr._Achenbaum-:-7_8-:-nsubj they-:-11-:-dobj 
+#20414035 3 believe.unknown executive-:-1-:-nsubj know-:-6-:-ccomp 
+#21863011 5 buy.unknown stock-:-8-:-dobj trader-:-4-:-nsubj 
+#21687008 9 buy.unknown company-:-7-:-nsubj contract-:-10-:-dobj 
+#21634096 16 buy.unknown Warner-:-14-:-lscmpx Guber_Peters-:-17_18-:-dobj 
+#20162042 4 rise.unknown Old_Spaghetti_Warehouse-:-1_2_3-:-nsubj 1-:-5-:-dobj 16_1/8-:-7_8-:-nmod 
+#20915001 8 buy.unknown Automax_Inc.-:-9_10-:-dobj it-:-4-:-lscmpx 
+#20327058 14 buy.unknown it-:-11-:-lscmpx Ansco_&_Associates_and_affiliate-:-15_16_17_18_20-:-dobj 
+#22045015 29 fall.unknown price-:-27-:-nsubj gold-:-26-:-lscmpx 
+#20562008 18 analyze.unknown work_process-:-23_24-:-dobj 
+#21166018 7 rise.unknown average_yield-:-2_3-:-nsubj jumbo-:-6-:-strngx 8.00_%-:-9_10-:-nmod 7.96_%-:-12_13-:-nmod 
+#21515022 17 buy.unknown company-:-23-:-dobj he-:-15-:-nsubj 
+#20435014 15 buy.unknown American_Motors_Corp.-:-16_17_18-:-dobj it-:-14-:-nsubj 
+#22102029 13 join.unknown Moscow-:-10-:-nsubj effort-:-14-:-dobj 
+#21304002 21 buy_back.unknown common_outstanding-:-30_31-:-rscmpx it-:-19-:-nsubj 
+#21844006 8 give.unknown it-:-9-:-iobj foothold-:-13-:-dobj move-:-7-:-nsubj 
+#21600049 11 buy.unknown S&P_500_option-:-12_13_14-:-dobj 
+#20345003 6 climb.unknown 41.60-:-7-:-dobj 2645.08-:-9-:-nmod Dow_Jones_Industrial_Average-:-2_3_4_5-:-nsubj 
+#21319004 4 buy.unknown stake-:-9-:-dobj 
+#20989051 19 buy.unknown Vizeversa-:-20-:-dobj it-:-16-:-lscmpx 
+#20713003 9 buy.unknown Dresdner_Bank-:-6_7-:-nsubj BIP-:-13-:-rscmpx 
+#20721001 7 buy.unknown it-:-4-:-lscmpx common_share-:-16_17-:-rscmpx 
+#20340006 18 value.unknown purchase-:-4-:-dobj 
+#20761042 31 buy.unknown business_group-:-29_30-:-nsubj real_estate-:-32_33-:-dobj 
+#20700018 9 buy.unknown commodity_or_financial_instrument-:-13_14_15_16-:-dobj 
+#20900004 22 buy.unknown company-:-17-:-lscmpx insurance-:-23-:-dobj 
+#20217001 27 value.unknown transaction-:-26-:-strngx 
+#21859004 22 purchase.unknown interest-:-24-:-dobj it-:-6-:-lscmpx 
+#20063015 25 buy_back.unknown stock-:-29-:-dobj Sea_Containers-:-22_23-:-lscmpx 
+#21561001 19 build.unknown joint_venture-:-16_17-:-lscmpx plant-:-22-:-dobj 
+#22055029 7 move.unknown Yaohan_Departmentstore_Co.-:-1_2_3-:-nsubj headquarters_and_hold_company-:-10_11_12_13-:-dobj Hong_Kong-:-15_16-:-nmod 
+#20359034 6 buy.unknown stock-:-7-:-dobj you-:-4-:-lscmpx 
+#21201040 19 buy.unknown they-:-16-:-nsubj 
+#21201030 27 buy.unknown they-:-24-:-nsubj any_more-:-28_29-:-dobj 
+#22145023 5 begin.unknown we-:-2-:-nsubj look-:-7-:-xcomp 
+#21036038 28 rise.unknown 1/2-:-29-:-dobj Delta_Air_Lines-:-25_26_27-:-nsubj 66_1/2-:-31_32-:-nmod 
+#20103013 12 begin.unknown agency-:-11-:-nsubj investigate-:-13-:-xcomp 
+#20049073 12 join.unknown member-:-3-:-nsubj firm-:-15-:-dobj 
+#20118094 6 begin.unknown stock-index_future-:-4_5-:-nsubj trade-:-7-:-xcomp 
+#20174031 8 begin.unknown U.S.-:-7-:-nsubj plan-:-9-:-xcomp 
+#20101002 36 increase.unknown loan_guarantee-:-27_28-:-dobj Overseas_Private_Investment_Corp.-:-31_32_33_34-:-lscmpx 
+#20456013 11 join.unknown European_Community-:-13_14-:-dobj Spain-:-10-:-nsubj 
+#21432018 4 move.unknown Cathay-:-1-:-nsubj operation-:-10-:-rscmpx outside_Hong_Kong-:-11_12_13-:-nmod 
+#21957058 10 decline.unknown Racal_Electric-:-1_2-:-nsubj 12-:-11-:-dobj 218-:-13-:-nmod 
+#20192029 18 buy.unknown investor-:-15-:-lscmpx future_contract-:-20_21-:-dobj 
+#21796001 28 post.unknown Republic_New_York_Corp.-:-1_2_3_4-:-lscmpx net_loss-:-34_35-:-dobj 
+#20192029 17 begin.unknown investor-:-15-:-lscmpx buy-:-18-:-xcomp 
+#21569088 3 start.unknown save-:-4-:-xcomp you-:-2-:-nsubj 
+#20224017 4 value.unknown proposal-:-3-:-nsubj Jaguar-:-5-:-dobj 
+#20610006 11 begin.unknown turn_out-:-12_13-:-xcomp facility-:-7-:-lscmpx 
+#21172024 11 buy.unknown we-:-8-:-lscmpx import-:-13-:-dobj 
+#20429001 25 value.unknown intercompany_receivable-:-23_24-:-lscmpx 
+#20761030 31 buy.unknown people-:-29-:-nsubj home-:-33-:-dobj 
+#21578063 14 climb.unknown 4.74-:-15-:-dobj 382.81-:-17-:-nmod Amex-:-2-:-lscmpx Market_Value_Index-:-3_4_5-:-lscmpx 
+#21321001 4 buy_out.unknown interest-:-9-:-dobj Rockwell_International_Corp.-:-1_2_3-:-nsubj 
+#21784016 19 decline.unknown 5_%-:-20_21-:-dobj sale-:-14-:-nsubj 
+#20415034 15 accompany.unknown economic_program-:-9_10-:-lscmpx measure-:-17-:-nmod 
+#20359049 11 buy.unknown you-:-8-:-nsubj stock-:-14-:-dobj 
+#21422023 30 buy.unknown smoker-:-21-:-lscmpx french-:-31-:-advmod 
+#22111010 12 build.unknown David_Peterson-:-9_10-:-nsubj Lexus_dealership-:-14_15-:-dobj 
+#20332006 5 follow.unknown takeover-:-2-:-dobj restructuring-:-8-:-nmod 
+#21717001 25 value.unknown transaction-:-24-:-strngx 
+#21187030 26 buy.unknown issue-:-21-:-lscmpx investment_trust_fund-:-28_29_30-:-nmod 
+#22100018 21 pass.unknown local_phone_company_and_long-distance_carrier-:-6_7_8_9_11_12-:-lscmpx money-:-26-:-rscmpx originator-:-29-:-nmod 
+#21999002 7 post.unknown Southwestern_Bell_Corp._and_Cincinnati_Bell-:-1_2_3_4_5_6-:-nsubj decline-:-9-:-dobj 
+#21875035 2 join.unknown Politburo-:-4-:-dobj Mr._Krenz-:-12_13-:-rscmpx 
+#21314016 5 buy.unknown share-:-7-:-dobj investor-:-4-:-nsubj 
+#20100030 7 begin.unknown build_up-:-8_9-:-xcomp he-:-6-:-nsubj 
+#20037054 10 join.unknown PLO-:-2-:-lscmpx organization-:-12-:-dobj 
+#20083023 16 buy.unknown Mitsubishi_International_Corp.-:-4_5_6-:-nsubj control_interest-:-17_18-:-dobj 
+#20414040 12 buy.unknown worker-:-11-:-nsubj vacation_day-:-15_16-:-nmod:tmod 
+#21819053 11 join.unknown John_P._Karalis-:-7_8_9-:-nsubj law_firm-:-17_18-:-dobj 
+#20742003 8 buy.unknown basket_of_stock-:-16_17_18-:-rscmpx 
+#20036026 28 climb.unknown 0.9_%-:-29_30-:-dobj goods-:-7-:-lscmpx order-:-4-:-lscmpx 
+#21767002 18 build.unknown Ford-:-20-:-nmod sedan-:-17-:-strngx 
+#21812001 3 post.unknown AMR_Corp.-:-1_2-:-nsubj drop-:-7-:-dobj 
+#20661006 24 buy.unknown it-:-16-:-lscmpx share-:-26-:-dobj 
+#20354002 2 value.unknown it-:-1-:-nsubj transaction-:-4-:-dobj 
+#20741006 28 begin.unknown son-:-18-:-lscmpx expansion-:-32-:-dobj 
+#21991003 10 purchase.unknown holder-:-8-:-lscmpx share-:-12-:-dobj 
+#21586021 14 buy.unknown woman-:-2-:-lscmpx mink-:-17-:-dobj 
+#21013014 18 value.unknown thrift-:-16-:-lscmpx bond-:-20-:-dobj 
+#20472006 2 climb.unknown sale-:-1-:-nsubj 71_%-:-3_4-:-dobj $_6.36_billion-:-6_7_8-:-nmod $_3.72_billion-:-10_11_12-:-nmod 
+#20675009 4 buy.unknown owner-:-2-:-nsubj machinery-:-6-:-dobj 
+#21273015 34 buy.unknown CD-:-36-:-dobj he-:-33-:-nsubj 
+#20224010 5 believe.unknown let-:-11-:-ccomp I-:-2-:-nsubj 
+#21283013 11 buy.unknown operator-:-5-:-lscmpx truck-:-13-:-dobj 
+#21172020 5 rise.unknown export-:-4-:-nsubj #_8.43_billion-:-7_8_9-:-nmod 
+#21480003 5 buy.unknown they-:-1-:-lscmpx growth_stock-:-6_7-:-dobj 
+#20033004 3 follow.unknown announcement-:-2-:-nsubj decline-:-9-:-dobj 
+#22054009 3 begin.unknown Mr._Allen-:-1_2-:-nsubj it-:-4-:-dobj 
+#21916032 23 wrap.unknown freeway_column-:-24_25-:-dobj steel_blanket-:-28_29-:-nmod 
+#20029013 14 buy.unknown they-:-1-:-lscmpx bond-:-21-:-rscmpx 
+#20779038 6 buy.unknown Fed-:-4-:-nsubj broad_market_composite-:-8_9_10-:-dobj 
+#21574077 29 buy.unknown policy-:-32-:-dobj people-:-13-:-lscmpx 
+#21285044 8 fall.unknown 1_1/2-:-9_10-:-dobj 30-:-12-:-nmod Novell-:-1-:-nsubj 
+#21586054 6 move.unknown who-:-3-:-nsubj production-:-8-:-dobj overseas-:-9-:-advmod 
+#21263018 16 join.unknown Reebok-:-17-:-dobj who-:-4-:-lscmpx 
+#20983012 20 buy.unknown bond-:-22-:-dobj 
+#21161052 23 buy.unknown share-:-24-:-dobj 
+#20277001 1 buy.unknown Mitsubishi_Estate_Co.-:-11_12_13-:-rscmpx Rockefeller_Group_Inc.-:-5_6_7-:-rscmpx 
+#20481002 15 begin.unknown service-:-21-:-dobj Times-:-14-:-nsubj 
+#20409005 15 move.unknown it-:-16-:-dobj country-:-19-:-nmod he-:-13-:-nsubj 
+#21019003 7 buy.unknown stock-:-12-:-dobj institutional_investor-:-4_5-:-lscmpx 
+#21248015 4 buy.unknown stake-:-7-:-dobj carrier-:-11-:-rscmpx 
+#20610029 21 build.unknown plant-:-17-:-dobj 
+#22153038 18 build.unknown steel_service_center-:-14_15_16-:-lscmpx processing_plant-:-20_21-:-dobj 
+#20648012 2 buy.unknown Insurers-:-1-:-nsubj insurance-:-4-:-rscmpx 
+#20345005 11 place.unknown order-:-9-:-dobj 
+#20001001 9 join.unknown Pierre_Vinken-:-1_2-:-nsubj board-:-11-:-dobj 
+#21315017 12 buy.unknown he-:-7-:-lscmpx crack-:-13-:-dobj 
+#21464013 22 buy.unknown bond-:-23-:-dobj client-:-20-:-lscmpx 
+#20314025 6 buy.unknown they-:-4-:-nsubj cost_discipline-:-9_10-:-dobj 
+#20174008 19 follow.unknown East_Germany-:-16_17-:-nsubj plan-:-23-:-dobj 
+#20417001 9 buy.unknown investor-:-5-:-lscmpx Detroit_Free_Press-:-14_15_16-:-dobj 
+#20349018 9 join.unknown firm-:-8-:-nsubj other-:-10-:-dobj 
+#21422010 25 buy.unknown electronic_card-:-26_27-:-dobj driver-:-20-:-lscmpx 
+#21449003 12 post.unknown Bond_Corp.-:-9_10-:-nsubj operating_loss-:-14_15-:-dobj 
+#21306001 7 join.unknown U.S._Memories-:-8_9-:-dobj it-:-4-:-nsubj 
+#21975001 8 fall.unknown 12_%-:-9_10-:-dobj net_income-:-6_7-:-nsubj 
+#20777008 17 buy.unknown MGM/UA_Communications_Co-:-18_19_20-:-dobj group-:-3-:-lscmpx 
+#20573005 20 climb.unknown personal_income-:-4_5-:-lscmpx 0.6_%-:-21_22-:-dobj 
+#21146142 3 buy.unknown he-:-1-:-nsubj clothes_and_Mercedes-:-7_9_12-:-dobj 
+#20683006 11 analyze.unknown change-:-13-:-dobj researcher-:-10-:-nsubj 
+#21728005 3 climb.unknown consumer_price-:-1_2-:-nsubj 0.2_%-:-6_7-:-dobj 
+#22043014 12 decline.unknown rate-:-10-:-lscmpx federal_fund-:-8_9-:-lscmpx 1/4_percentage_point-:-13_14_15-:-dobj 8_3/4_%-:-18_19_20-:-nmod 9_%-:-28_29-:-rscmpx 
+#21574020 35 buy.unknown you-:-29-:-lscmpx it-:-36-:-dobj 
+#20141024 9 buy.unknown they-:-7-:-nsubj appliance-:-10-:-dobj 
+#20194005 2 rise.unknown sale-:-1-:-nsubj 5_%-:-3_4-:-dobj $_4.4_billion-:-6_7_8-:-nmod $_4.2_billion-:-10_11_12-:-nmod 
+#20779016 4 buy.unknown Fed-:-2-:-nsubj foreign_exchange-:-7_8-:-dobj 
+#20194024 19 buy.unknown it-:-5-:-lscmpx share_of_common_stock-:-24_25_26_27-:-dobj 
+#21567066 20 join.unknown Mr._Peterson-:-15_16-:-lscmpx club-:-25-:-rscmpx 
+#20440001 4 climb.unknown construction_contracting-:-2_3-:-nsubj 8_%-:-5_6-:-dobj $_274.2_billion-:-12_13_14-:-nmod 
+#20912001 8 buy.unknown it-:-5-:-lscmpx Viroqua_Telephone_Co.-:-9_10_11-:-dobj 
+#21390048 2 join.unknown Mr._Brawer-:-7_8-:-rscmpx Maidenform-:-3-:-dobj 
+#22109024 11 begin.unknown it-:-8-:-nsubj 
+#21621001 14 post.unknown Inland_Steel_Industries_Inc.-:-1_2_3_4-:-nsubj drop-:-18-:-dobj 
+#20564010 3 buy.unknown Mr._Rey-:-1_2-:-nsubj control_stake-:-5_6-:-dobj 
+#21869011 5 decline.unknown 29_%-:-10_11-:-nmod rate-:-2-:-nsubj 
+#21223017 17 buy.unknown stock-:-19-:-dobj bank_and_account-:-6_11_14-:-lscmpx 
+#20761013 10 buy.unknown those-:-2-:-lscmpx home-:-12-:-dobj 
+#20531001 6 buy.unknown common_share-:-13_14-:-dobj it-:-4-:-nsubj 
+#20296018 8 believe.unknown he-:-6-:-nsubj manage-:-27-:-ccomp 
+#20469033 40 join.unknown Morrison_Cohen_Singer_&_Weinstein-:-41_42_43_44_45-:-dobj who-:-34-:-lscmpx 
+#20214023 10 join.unknown retiree_and_tourist-:-6_7_8-:-nsubj fan-:-12-:-dobj 
+#20148013 14 buy.unknown investor-:-4-:-lscmpx stock-:-20-:-rscmpx 
+#20064019 27 begin.unknown company-:-10-:-lscmpx phase_in-:-28_30-:-xcomp 
+#20979010 21 believe.unknown he-:-20-:-nsubj forthcoming-:-27-:-ccomp 
+#20342004 8 climb.unknown sale-:-1-:-lscmpx 29_%-:-9_10-:-dobj 787.02_billion_yen-:-12_13_14-:-nmod 
+#20473024 16 build.unknown it-:-14-:-nsubj pipeline-:-19-:-dobj 
+#20315001 13 move.unknown it-:-4-:-lscmpx fastener_operation-:-15_16-:-dobj facility-:-20-:-nmod 
+#20477018 9 buy.unknown Allianz-:-7-:-nsubj 
+#20050001 15 buy.unknown it-:-7-:-lscmpx building_and_property-:-16_17_19-:-dobj 
+#21463013 12 fall.unknown 5_%-:-14_15-:-dobj sale-:-6-:-lscmpx 
+#21538005 24 buy.unknown he-:-1-:-lscmpx share-:-25-:-dobj 
+#20335018 11 give_opportunity.unknown they-:-7-:-dobj respond-:-15-:-rscmpx 
+#21567001 10 give.unknown father-:-9-:-nsubj he-:-11-:-iobj career_advice-:-15_16-:-rscmpx 
+#20224035 7 buy.unknown GM-:-2-:-lscmpx stock-:-15-:-rscmpx 
+#20371002 26 join.unknown who-:-24-:-nsubj HMS_Acquisition_Corp.-:-28_29_30-:-rscmpx 
+#20082016 10 value.unknown stake-:-9-:-strngx 
+#20049032 19 join.unknown judge-:-5-:-lscmpx law_firm-:-23_24-:-dobj 
+#20029003 11 place_with.unknown fund-:-9-:-lscmpx institutional_investor-:-14_15-:-nmod 
+#20681039 13 value.unknown stock-:-10-:-dobj 
+#21344002 7 climb.unknown pretax_profit-:-1_2-:-nsubj #_187.1_million-:-9_10_11-:-nmod #_146.3_million-:-18_19_20-:-nmod 
+#21120016 6 buy.unknown people-:-4-:-lscmpx goods-:-12-:-dobj 
+#20532002 26 buy.unknown that-:-23-:-nsubj MTM-:-27-:-dobj 
+#20465059 2 believe.unknown he-:-1-:-nsubj arise-:-7-:-ccomp 
+#20748001 19 accompany.unknown fanfare-:-17-:-lscmpx travels-:-24-:-rscmpx 
+#20151001 12 buy.unknown it-:-11-:-nsubj share-:-15-:-dobj 
+#20943007 19 post.unknown which-:-16-:-nsubj sale-:-20-:-dobj 
+#21335016 12 climb.unknown 4.6_%-:-13_14-:-dobj deflator-:-9-:-lscmpx 
+#20194026 16 increase.unknown Carl_Icahn-:-13_14-:-nsubj stake-:-18-:-dobj 
+#21320041 14 buy.unknown Soviets-:-6-:-lscmpx grain_and_commodity_and_goods-:-15_16_19_20_21-:-dobj 
+#20350013 3 climb.unknown cost-:-2-:-nsubj labor-:-1-:-lscmpx 1.2_%-:-4_5-:-dobj 
+#21069008 2 climb.unknown revenue-:-1-:-nsubj 18_%-:-3_4-:-dobj $_289_million-:-6_7_8-:-nmod $_245.3_million-:-10_11_12-:-nmod 
+#21480030 27 buy.unknown we-:-16-:-lscmpx share-:-30-:-dobj 
+#21438005 12 join.unknown Hibernia_Corp.-:-1_2-:-nsubj Big_Board-:-14_15-:-rscmpx 
+#20444020 18 rise.unknown british_pound-:-2_3-:-nsubj $_1.5820-:-21_22-:-nmod $_1.5795-:-26_27-:-rscmpx 
+#21891004 10 buy.unknown subsidiary-:-2-:-nsubj electricity_and_steam-:-11_12_13-:-dobj 
+#20475024 24 begin.unknown two_side-:-20_21-:-lscmpx negotiate-:-25-:-xcomp 
+#20953023 4 value.unknown New_England_Electric-:-1_2_3-:-nsubj offer-:-6-:-dobj 
+#20319001 6 rise.unknown 1.2_%-:-7_8-:-dobj labor_cost-:-4_5-:-nsubj private_industry-:-1_2-:-lscmpx 
+#21819049 22 join.unknown Teamsters-:-19-:-lscmpx Gibson_Dunn_&_Crutcher-:-23_25_26_27-:-dobj 
+#21316016 8 begin.unknown he-:-13-:-rscmpx focus-:-9-:-xcomp 
+#20585023 13 buy.unknown they-:-8-:-lscmpx share-:-14-:-dobj 
+#21081001 14 build.unknown Jacobs_Engineering_Group_Inc._'s_Jacobs_International_unit-:-1_2_3_4_5_6_7_8-:-lscmpx manufacturing_plant-:-17_18-:-rscmpx 
+#20609040 28 accompany.unknown they-:-19-:-lscmpx spending_bill-:-29_30-:-dobj 
+#21192021 2 rise.unknown revenue-:-1-:-nsubj 12_%-:-3_4-:-dobj $_4.75_billion-:-6_7_8-:-nmod $_4.22_billion-:-10_11_12-:-nmod 
+#20464025 31 join.unknown Daimler-Benz-:-30-:-nsubj list-:-33-:-dobj 
+#21002017 4 buy.unknown I-:-2-:-nsubj fabric-:-5-:-dobj 
+#20553025 8 join.unknown Mr._Lawson-:-1_2-:-lscmpx EMS-:-10-:-dobj 
+#21572008 5 buy.unknown person-:-4-:-nsubj oil_well-:-7_8-:-dobj 
+#20578003 9 buy.unknown Sony-:-5-:-lscmpx Guber-Peters_Entertainment_Co.-:-10_11_12-:-dobj 
+#21957013 9 join.unknown investor-:-2-:-lscmpx buying-:-12-:-nmod 
+#20405023 4 buy.unknown Kawasaki_Steel_Corp.-:-1_2_3-:-nsubj patent-:-8-:-dobj 
+#20959006 6 join.unknown Mr._Pimlott_and_Mr._McCarthy-:-1_2_3_4_5-:-nsubj Barclay_'s-:-7_8-:-dobj 
+#21273008 8 buy.unknown CD-:-6-:-lscmpx he-:-7-:-nsubj 
+#21875089 5 begin.unknown economist-:-4-:-nsubj blame-:-7-:-xcomp 
+#20437015 6 buy.unknown Japan-:-3-:-nsubj copper-:-7-:-dobj 
+#20584024 34 buy.unknown company-:-41-:-rscmpx regional_Bell_company-:-28_29_30-:-lscmpx 
+#21140022 15 buy.unknown investor-:-5-:-lscmpx stock-:-16-:-dobj 
+#20039034 14 buy.unknown she-:-12-:-lscmpx jam_cocoa_and_goody-:-15_17_18_21-:-dobj 
+#20983021 28 buy.unknown it-:-27-:-nsubj bond-:-26-:-lscmpx 
+#22140027 7 begin.unknown it-:-3-:-lscmpx produce-:-8-:-xcomp 
+#20089021 9 begin.unknown ringer-:-8-:-nsubj vary-:-10-:-xcomp 
+#21111017 12 buy.unknown Norfolk-:-6-:-lscmpx share-:-17-:-dobj 
+#21086009 10 join.unknown company-:-8-:-lscmpx 
+#20584035 33 buy.unknown share-:-36-:-dobj company-:-23-:-lscmpx 
+#20578002 10 buy.unknown Sony_Corp.-:-5_6-:-lscmpx Columbia_Pictures_Entertainment_Inc.-:-11_12_13_14-:-dobj 
+#21128058 8 pick.unknown crop-:-4-:-dobj 
+#20350017 18 buy.unknown Sea_Containers-:-1_2-:-lscmpx common_share-:-24_25-:-rscmpx 
+#21354003 6 post.unknown CMS-:-5-:-nsubj profit-:-7-:-dobj 
+#20578002 18 value.unknown transaction-:-17-:-strngx 
+#20043026 7 begin.unknown country-:-1-:-nsubj consider-:-9-:-xcomp 
+#21093003 2 climb.unknown revenue-:-1-:-nsubj 13_%-:-3_4-:-dobj 45.4_billion_franc-:-6_7_8-:-nmod 40.1_billion-:-10_11-:-nmod 
+#20968012 24 begin.unknown company-:-22-:-nsubj follow_suit-:-26_27-:-xcomp 
+#20467017 8 start.unknown executive-:-7-:-nsubj company-:-12-:-dobj 
+#21223016 11 buy.unknown investor-:-9-:-nsubj this-:-12-:-dobj 
+#20520005 5 fluctuate.unknown stock-:-3-:-nsubj 
+#21986051 5 build.unknown stuff-:-4-:-nsubj family-:-8-:-rscmpx 
+#20151004 3 follow.unknown action-:-2-:-nsubj announcement-:-9-:-dobj 
+#20686015 8 increase.unknown House-Senate_conference-:-5_6-:-nsubj National_Aeronautics_and_Space_Administration-:-10_11_12_13_14-:-dobj budget-:-15-:-rscmpx 
+#22124009 20 buy.unknown he-:-19-:-nsubj stock-:-26-:-rscmpx 
+#21855010 19 join.unknown CBOE_American_Stock_Exchange_Options_Clearing_Corp._and_Stephen_Fossett-:-2_4_5_6_8_9_10_11_12_13-:-nsubj put_up-:-21_22-:-rscmpx 
+#22003001 12 post.unknown Great_American_Bank-:-1_2_3-:-nsubj loss-:-15-:-dobj 
+#20994075 2 buy.unknown MGM_Grand_hotel-casino-:-5_6_7-:-dobj Bally-:-1-:-nsubj 
+#20254002 13 climb.unknown which-:-11-:-lscmpx 0.5_%-:-14_15-:-dobj 
+#20308001 32 buy.unknown it-:-17-:-lscmpx common_share-:-38_39-:-rscmpx 
+#22142008 9 begin.unknown buy-:-10-:-xcomp investor-:-3-:-nsubj 
+#21162030 35 rise.unknown 30_%-:-37_38-:-dobj spending-:-10-:-nsubj $_100,000-:-42_43-:-nmod 
+#20931031 7 begin.unknown House_and_Senate-:-2_3_4-:-lscmpx hash_out-:-9_10-:-xcomp 
+#20934011 5 buy.unknown they-:-1-:-lscmpx item-:-7-:-dobj 
+#22153001 19 begin.unknown it-:-17-:-nsubj test-:-20-:-xcomp 
+#20719010 17 erupt.unknown trading_problem-:-15_16-:-nsubj 
+#20409002 17 buy.unknown he-:-16-:-nsubj rowing_machine-:-14_15-:-lscmpx 
+#21172016 16 join.unknown nation-:-15-:-nsubj plan-:-22-:-nmod 
+#21026034 11 buy_back.unknown trader-:-1-:-lscmpx they-:-12-:-dobj 
+#21121044 3 wrap.unknown man-:-2-:-nsubj diamond-:-5-:-dobj knot_of_tie-:-8_9_11-:-nmod 
+#20319011 4 climb.unknown cost-:-2-:-nsubj labor-:-1-:-lscmpx 
+#20074001 19 begin.unknown worker-:-10-:-nsubj strike-:-21-:-dobj 
+#20469048 9 join.unknown lawyer-:-3-:-lscmpx Whitman_&_Ransom-:-10_11_12-:-dobj 
+#20192036 6 buy.unknown Soviet_Union-:-2_3-:-lscmpx crop-:-8-:-dobj 
+#20660001 6 buy.unknown share-:-12-:-rscmpx Montedison_S.p.A.-:-1_2-:-lscmpx 
+#20453005 25 follow.unknown come-:-14-:-lscmpx tell-:-30-:-rscmpx 
+#21057066 2 start.unknown that-:-1-:-nsubj bidding_war-:-5_6-:-dobj 
+#22045019 6 buy.unknown gold-:-7-:-dobj 
+#21570021 12 accompany.unknown appraisal-:-14-:-nmod deduction-:-1-:-dobj 
+#21174037 25 buy.unknown who-:-24-:-nsubj Spendthrift-:-26-:-dobj 
+#21603083 9 buy.unknown it-:-8-:-nsubj rice-:-16-:-rscmpx 
+#21646022 7 begin.unknown China-:-4-:-nsubj relax-:-8-:-xcomp 
+#21201046 7 buy.unknown investor-:-4-:-nsubj stock-:-9-:-dobj 
+#21819055 2 join.unknown Apple-:-3-:-dobj Mr._Karalis-:-7_8-:-rscmpx 
+#20116005 3 begin.unknown send-:-4-:-xcomp they-:-1-:-nsubj 
+#21368032 11 buy.unknown who-:-10-:-nsubj porcelain_and_matryoshka_nesting_doll-:-13_14_16_18_19-:-dobj 
+#20428003 15 decline.unknown export-:-13-:-nsubj 
+#21120003 6 join.unknown Japan-:-5-:-nsubj club-:-13-:-dobj 
+#21884028 7 climb.unknown Georgia-Pacific-:-6-:-nsubj 1_1/4-:-8_9-:-dobj 58-:-11-:-nmod 
+#21881034 18 buy.unknown he-:-17-:-nsubj stock-:-24-:-dobj 
+#21856055 15 buy.unknown product-:-16-:-dobj consumer-:-11-:-nsubj 
+#20439003 42 accompany.unknown political_reform-:-40_41-:-lscmpx civil_unrest-:-44_45-:-nmod 
+#20764028 8 increase.unknown launder_drug_money-:-1_2_3-:-lscmpx price-:-13-:-dobj real_estate-:-15_16-:-rscmpx 
+#20681076 17 buy.unknown Montedison-:-1-:-lscmpx rest-:-19-:-dobj 
+#20146011 6 believe.unknown offer-:-8-:-xcomp 
+#21582013 5 begin.unknown court-:-3-:-nsubj recognize-:-7-:-xcomp 
+#20467042 9 rise.unknown nine_penny-:-10_11-:-dobj 216_penny-:-14_15-:-nmod share-:-8-:-nsubj 
+#21208056 11 buy.unknown share-:-12-:-dobj she-:-1-:-lscmpx 
+#20137027 8 post.unknown intraday_low-:-10_11-:-dobj 
+#21438008 13 start.unknown franchisor-:-11-:-lscmpx trade-:-14-:-xcomp 
+#21295004 23 post.unknown Carbide-:-1-:-lscmpx earnings-:-24-:-dobj 
+#20367005 21 begin.unknown Specialized-:-9-:-lscmpx mass-produce-:-22-:-xcomp 
+#20732011 5 begin.unknown you-:-4-:-nsubj talk-:-6-:-xcomp 
+#20317066 12 buy.unknown plant-:-14-:-dobj 
+#20280017 5 buy.unknown bottle-:-10-:-dobj customer-:-3-:-lscmpx 
+#21467005 5 buy.unknown share-:-8-:-dobj McCaw-:-1-:-lscmpx 
+#21479003 10 post.unknown company-:-7-:-lscmpx net_loss-:-12_13-:-dobj 
+#20687012 15 build.unknown they-:-9-:-lscmpx life-:-16-:-dobj 
+#20742013 26 buy.unknown thing-:-23-:-lscmpx you-:-24-:-nsubj 
+#20210001 8 erupt.unknown conflict-:-3-:-nsubj 
+#21273024 10 buy.unknown he-:-8-:-nsubj CD-:-12-:-dobj 
+#21316001 14 value.unknown transaction-:-13-:-strngx 
+#20141022 10 buy.unknown they-:-8-:-nsubj house-:-12-:-dobj 
+#20277034 36 purchase.unknown which-:-34-:-nsubj Building-:-39-:-dobj 
+#20331015 5 value.unknown railroad-:-3-:-dobj private_market_basis-:-8_9_10-:-nmod 
+#20671008 17 buy.unknown municipal_bond-:-18_19-:-dobj who-:-7-:-lscmpx 
+#20649007 7 rise.unknown 45_%-:-8_9-:-dobj 380_billion_yen-:-11_12_13-:-nmod net-:-5-:-lscmpx 
+#22170050 21 pick.unknown you-:-19-:-nsubj time-:-24-:-dobj 
+#20071046 4 buy.unknown who-:-3-:-nsubj 
+#21272054 8 build.unknown they-:-5-:-lscmpx machine-:-11-:-dobj 
+#20725056 15 buy.unknown rights-:-19-:-dobj Santa_Fe_Energy_Co.-:-1_2_3_4-:-nsubj 
+#21569037 2 build.unknown parent-:-19-:-rscmpx nest_egg-:-4_5-:-dobj 
+#21002009 20 begin.unknown buyer-:-18-:-nsubj write-:-21-:-xcomp 
+#21781022 5 climb.unknown Morgan_Grenfell-:-3_4-:-nsubj 14-:-6-:-dobj 406-:-8-:-nmod 
+#21957004 13 post.unknown bourse-:-12-:-nsubj gain-:-14-:-dobj 
+#20036016 3 fall.unknown payroll-:-2-:-nsubj factory-:-1-:-lscmpx 
+#20436016 3 buy.unknown 
+#20764029 7 buy.unknown car_airplane_launch_and_nightclub-:-9_11_13_14_15-:-dobj 
+#21830029 4 buy.unknown opponent-:-1-:-nsubj argument-:-6-:-dobj 
+#20586027 20 buy.unknown share-:-29-:-rscmpx 
+#21457056 3 value.unknown he-:-1-:-nsubj share-:-5-:-dobj 
+#21519001 34 build.unknown power_plant-:-28_29-:-lscmpx 
+#21262001 14 buy.unknown firm-:-17-:-dobj 
+#21006004 3 join.unknown Mr._Lortie-:-1_2-:-nsubj Provigo-:-4-:-dobj 
+#21562036 6 buy.unknown broker-:-4-:-lscmpx investment-:-10-:-dobj 
+#21761051 3 purchase.unknown you-:-2-:-nsubj stock-:-5-:-dobj 
+#21337015 5 pick.unknown investor-:-3-:-nsubj stock-:-7-:-dobj 
+#21026035 27 purchase.unknown China-:-26-:-nsubj cotton-:-28-:-dobj 
+#21036046 5 purchase.unknown convertible_preferred_stock-:-10_11_12-:-rscmpx company-:-2-:-lscmpx 
+#21453034 7 buy.unknown he-:-4-:-lscmpx company-:-11-:-dobj 
+#20563004 19 increase.unknown equipment-:-11-:-lscmpx quantity-:-21-:-dobj home_copying-:-23_24-:-rscmpx 
+#20246002 3 follow.unknown increase-:-2-:-nsubj report-:-7-:-dobj 
+#21362002 19 post.unknown loss-:-21-:-dobj it-:-17-:-nsubj 
+#20779037 13 buy.unknown government_or_central_bank-:-7_8_10_11-:-nsubj share-:-20-:-dobj 
+#20021002 9 believe.unknown call_for-:-20_21-:-rscmpx 
+#20530014 5 buy.unknown they-:-3-:-lscmpx wardrobe-:-9-:-rscmpx 
+#20654004 5 begin.unknown it-:-3-:-nsubj discussion-:-6-:-dobj 
+#20177009 13 climb.unknown Komatsu-:-1-:-lscmpx sale-:-11-:-nsubj 600_billion_yen-:-15_16_17-:-nmod 566.54_billion_yen-:-19_20_21-:-nmod 
+#20016002 4 follow.unknown growth-:-3-:-nsubj year-to-year_increase-:-5_6-:-dobj 
+#21035005 6 post.unknown Consolidated-:-4-:-lscmpx profit-:-9-:-dobj 
+#21572075 7 buy.unknown we-:-2-:-lscmpx house-:-9-:-dobj 
+#20938016 28 buy.unknown MCA_and_Bronfman_associate-:-19_20_22_23-:-lscmpx theater_complex-:-41_42-:-dobj 
+#21796001 5 join.unknown Republic_New_York_Corp.-:-1_2_3_4-:-nsubj list-:-7-:-dobj 
+#20328012 14 increase.unknown ceiling-:-3-:-dobj loan-:-6-:-lscmpx 
+#21422016 4 buy.unknown RJR_Nabisco_Inc.-:-5_6_7-:-rscmpx it-:-1-:-lscmpx 
+#20254008 5 follow.unknown sale-:-11-:-rscmpx weakness-:-4-:-nsubj 
+#21320027 14 buy.unknown copper-:-15-:-dobj who-:-7-:-lscmpx 
+#20587022 4 move.unknown measure-:-2-:-nsubj budget-:-13-:-rscmpx home-state_project-:-15_16-:-nmod foreign_basis-:-18_19-:-nmod 
+#21079005 2 buy_back.unknown ITT-:-1-:-nsubj share-:-6-:-dobj 
+#21328042 12 buy.unknown Manville-:-9-:-nsubj much-:-13-:-dobj 
+#21481001 7 begin.unknown it-:-5-:-nsubj offering-:-9-:-dobj 
+#21856048 4 buy.unknown whatever-:-5-:-rscmpx they-:-2-:-nsubj 
+#20601007 12 believe.unknown who-:-11-:-nsubj botch-:-17-:-ccomp 
+#20996016 18 pick.unknown one-:-21-:-dobj 
+#21328029 11 buy_out.unknown Manville-:-9-:-nsubj trust_'s_share-:-14_15_16-:-dobj 
+#22048009 9 begin.unknown Chamber-:-6-:-nsubj use-:-10-:-xcomp 
+#20622006 3 believe.unknown we-:-2-:-nsubj indication-:-10-:-rscmpx 
+#20170008 8 build.unknown ship-:-4-:-dobj 
+#21642017 23 begin.unknown buyer-:-21-:-nsubj shop-:-25-:-xcomp 
+#20978003 9 buy.unknown stock-:-10-:-dobj Renaissance-:-1-:-lscmpx 
+#21100001 7 buy.unknown it-:-5-:-nsubj Shaw-Walker_Co-:-8_9-:-dobj 
+#21692041 12 join.unknown partner-:-3-:-nsubj Cowan_&_Owen-:-13_14_15-:-dobj 
+#22113108 4 buy.unknown everybody-:-1-:-lscmpx Monets-:-5-:-dobj 
+#21046003 15 decline.unknown failure-:-14-:-nsubj 
+#20374036 12 buy.unknown company-:-10-:-nsubj stock-:-16-:-dobj 
+#20437011 6 buy.unknown trader-:-4-:-lscmpx contract-:-7-:-dobj 
+#21562037 8 buy.unknown investment-:-4-:-dobj 
+#20943005 15 buy.unknown Bell_Atlantic-:-11_12-:-nsubj customer_base_and_maintenance_facility-:-19_20_21_26_27-:-dobj 
+#20979002 18 join.unknown Jonathan_Lloyd-:-10_11-:-lscmpx board-:-21-:-dobj 
+#21026036 14 buy.unknown China-:-13-:-nsubj bale-:-18-:-dobj 
+#22155007 2 climb.unknown revenue-:-1-:-nsubj 4.3_%-:-3_4-:-dobj $_14.31_billion-:-6_7_8-:-nmod $_13.71_billion-:-10_11_12-:-nmod 
+#20142006 17 buy.unknown you-:-12-:-lscmpx name-:-19-:-dobj 
+#20714004 3 fall.unknown net-:-2-:-nsubj 4.97_yen-:-5_6-:-nmod 5.40_yen-:-8_9-:-nmod 
+#20998015 9 buy.unknown Japanese-:-4-:-lscmpx real_estate-:-11_12-:-dobj 
+#20937011 24 believe.unknown George_Bush-:-9_10-:-lscmpx turn_the_clock_back-:-31_32_33_34-:-ccomp 
+#20693033 23 purchase.unknown investor-:-13-:-lscmpx bond_issue-:-25_26-:-dobj 
+#21936052 13 begin.unknown massage-:-15-:-xcomp he-:-10-:-nsubj 
+#21809049 16 begin.unknown ship-:-17-:-xcomp 
+#21617038 19 pick.unknown client-:-17-:-nsubj trip-:-21-:-dobj 
+#21623016 15 decline.unknown interest-:-11-:-lscmpx rate-:-12-:-nsubj 
+#21273030 6 buy.unknown I-:-4-:-nsubj CD-:-8-:-dobj 
+#20477002 9 buy.unknown Navigation_Mixte-:-15_16-:-rscmpx Allianz-:-1-:-lscmpx 
+#21266009 16 buy.unknown who-:-11-:-nsubj stock-:-24-:-rscmpx 
+#21146041 6 buy.unknown middleman-:-3-:-lscmpx 
+#20521002 5 join.unknown Mr._Nicastro-:-3_4-:-nsubj Grand_Union-:-6_7-:-dobj 
+#22106027 10 accompany.unknown music-:-7-:-lscmpx reading-:-11-:-dobj 
+#21002035 4 buy.unknown fabric-:-5-:-dobj manufacturer-:-2-:-lscmpx 
+#21208043 20 buy.unknown firm-:-16-:-lscmpx future-:-21-:-dobj 
+#20675025 14 buy.unknown firm-:-10-:-lscmpx company-:-24-:-rscmpx 
+#20564050 6 buy.unknown Omni-:-4-:-nsubj stake-:-11-:-dobj 
+#21594011 7 climb.unknown 20_%-:-8_9-:-dobj net-:-6-:-nsubj $_102_million-:-15_16_17-:-nmod $_85_million-:-26_27_28-:-nmod 
+#20779025 27 buy.unknown Fed-:-19-:-lscmpx market_average-:-28_29-:-dobj 
+#20239029 11 follow.unknown I-:-10-:-nsubj progress-:-13-:-dobj 
+#20560016 10 purchase.unknown Westinghouse-:-5-:-lscmpx combustion_turbine-:-12_13-:-dobj 
+#20373008 26 buy.unknown studio-:-24-:-nsubj stake-:-29-:-dobj 
+#22092003 2 join.unknown MIPS-:-3-:-dobj Control_Data-:-5_6-:-rscmpx 
+#20693033 17 buy.unknown investor-:-13-:-lscmpx dollar-:-18-:-dobj 
+#20477020 25 buy.unknown which-:-23-:-dobj it-:-24-:-nsubj 
+#20141019 11 buy.unknown they-:-9-:-nsubj car-:-13-:-dobj 
+#20477012 5 buy.unknown Commerzbank-:-1-:-lscmpx stake-:-7-:-dobj 
+#20274017 13 join.unknown they-:-8-:-lscmpx group-:-17-:-dobj 
+#20742023 17 buy.unknown portfolio-:-19-:-dobj you-:-15-:-nsubj 
+#20484004 16 analyze.unknown committee-:-8-:-lscmpx situation-:-18-:-dobj 
+#20464004 6 decline.unknown OTC_market-:-2_3-:-nsubj 
+#20510003 13 purchase.unknown it-:-7-:-lscmpx Wilson-:-14-:-dobj 
+#20663001 16 rise.unknown net_income-:-10_11-:-nsubj 8.9_%-:-17_18-:-dobj 8.2_billion_yen-:-20_21_22-:-nmod 7.54_billion_yen-:-29_30_31-:-nmod 
+#21435009 11 accompany.unknown inspector-:-14-:-nmod she-:-9-:-dobj 
+#21429002 20 make.unknown Avions_Marcel_Dassault-Breguet_Aviation_SA-:-22_23_24_25_26-:-nmod which-:-18-:-dobj 
+#20137022 4 fall.unknown Sumitomo_Metal_Mining-:-1_2_3-:-nsubj five_yen-:-5_6-:-dobj 692-:-8-:-nmod 
+#21303033 3 join.unknown Mr._Dozen-:-1_2-:-nsubj Daiwa-:-4-:-dobj 
+#20584014 2 value.unknown they-:-1-:-nsubj bid-:-5-:-dobj a_share-:-12_13-:-rscmpx 
+#21276001 13 buy.unknown share-:-16-:-dobj Federal_Mogul_Corp.-:-9_10_11-:-nsubj 
+#22102019 15 begin.unknown decline-:-17-:-xcomp 
+#21316004 23 buy.unknown that-:-21-:-dobj Goodson-:-22-:-nsubj 
+#20584037 8 buy_up.unknown BellSouth-:-6-:-lscmpx share-:-10-:-dobj 
+#20551002 14 buy.unknown Society_Corp.-:-1_2-:-lscmpx Trustcorp-:-15-:-dobj 
+#21319036 13 buy.unknown Paribas-:-20-:-rscmpx Mr._Fournier-:-8_9-:-lscmpx 
+#21578041 3 climb.unknown Paramount_Communications-:-1_2-:-nsubj 1_1/4-:-4_5-:-dobj 58_1/2-:-7_8-:-nmod 
+#20415017 13 pick.unknown man-:-12-:-strngx electoral_college-:-16_17-:-nmod 
+#21146105 9 buy.unknown land-:-12-:-dobj farmer-:-3-:-lscmpx 
+#20141020 10 buy.unknown they-:-8-:-nsubj car-:-12-:-dobj 
+#21302029 10 join.unknown I-:-2-:-lscmpx Lloyd_'s-:-11_12-:-dobj 
+#20900009 19 believe.unknown they-:-18-:-nsubj dominate-:-26-:-ccomp 
+#21441010 23 buy.unknown share-:-25-:-dobj 
+#22140020 2 begin.unknown SsangYong-:-1-:-nsubj make-:-3-:-xcomp 
+#21438001 16 join.unknown another-:-14-:-nsubj Big_Board-:-18_19-:-dobj 
+#21120012 10 start.unknown LDP-:-9-:-nsubj crumble-:-12-:-xcomp 
+#21047001 21 buy.unknown department_store_concern-:-9_10_11-:-lscmpx Bloomingdale_'s-:-22_23-:-dobj 
+#20063002 29 buy.unknown it-:-14-:-lscmpx common_share-:-35_36-:-rscmpx 
+#21586014 26 buy.unknown she-:-24-:-nsubj mink-:-28-:-dobj 
+#20766079 9 buy.unknown I-:-7-:-lscmpx insurance-:-11-:-dobj 
+#22135002 17 join.unknown who-:-14-:-lscmpx Securities_and_Futures_Commission-:-21_22_23_24-:-dobj 
+#21572028 16 join.unknown investor-:-10-:-lscmpx group-:-19-:-dobj 
+#21642028 14 climb.unknown operator-:-2-:-nsubj 3_1/8-:-15_16-:-dobj 23-:-18-:-nmod share-:-21-:-nmod 
+#20373016 21 value.unknown package-:-20-:-strngx 
+#20569031 26 believe.unknown who-:-25-:-nsubj nosedive-:-32-:-rscmpx 
+#21084001 4 rise.unknown 0.2_%-:-5_6-:-dobj consumer_price-:-2_3-:-nsubj 
+#21689004 16 join.unknown Deloitte_firm-:-3_4-:-lscmpx Coopers_&_Lybrand-:-17_18_19-:-dobj 
+#21709002 12 buy_back.unknown Schlumberger-:-7-:-lscmpx stock-:-15-:-dobj 
+#21263001 20 join.unknown who-:-19-:-nsubj Reebok-:-21-:-dobj 
+#20983029 17 buy_back.unknown New_America_High_Income_Fund-:-1_2_3_4_5-:-lscmpx prefer_stock_and_note-:-23_24_25_26-:-rscmpx 
+#21273043 4 buy.unknown who-:-3-:-nsubj zero-coupon_CDs-:-5_6-:-dobj 
+#21142024 7 buy.unknown share-:-10-:-dobj 
+#21353008 10 climb.unknown death_toll-:-3_4-:-nsubj temblor-:-9-:-strngx 61-:-12-:-nmod 
+#21377018 4 believe.unknown executive-:-3-:-nsubj outweigh-:-10-:-ccomp 
+#21622024 3 buy.unknown what-:-4-:-rscmpx market_maker-:-1_2-:-nsubj 
+#21219003 9 purchase.unknown Meredith_Relocation_Corp.-:-5_6_7-:-lscmpx home-:-12-:-dobj 
+#21014018 16 join.unknown he-:-12-:-lscmpx barroom_brawl-:-19_20-:-nmod 
+#20400036 13 purchase.unknown Federal_Reserve-:-8_9-:-lscmpx bill-:-14-:-dobj 
+#20155003 5 buy.unknown trader-:-2-:-lscmpx future_contract-:-6_7-:-dobj 
+#20979003 20 buy.unknown MGM/UA_Communications_Co.-:-21_22_23-:-dobj 
+#20334004 21 rise.unknown five_penny-:-23_24-:-nmod 4.5_penny-:-26_27-:-nmod per-share_earnings-:-19_20-:-nsubj 
+#20584015 6 value.unknown pact-:-4-:-dobj 
+#21153001 12 value.unknown jetliner-:-11-:-strngx 
+#20524030 18 believe.unknown Maureen_Fraser-:-1_2-:-nsubj able-:-25-:-ccomp 
+#21161058 23 buy.unknown share-:-24-:-dobj 
+#20274027 21 buy_back.unknown issuer-:-13-:-lscmpx bond-:-24-:-dobj 
+#20998040 5 buy.unknown I-:-3-:-nsubj building-:-7-:-dobj 
+#20098006 11 rise.unknown minimum_wage-:-8_9-:-nsubj $_3.80-:-13_14-:-nmod 
+#21065054 26 join.unknown John_Ake-:-1_2-:-nsubj Ballard_Spahr-:-27_28-:-rscmpx 
+#21698003 18 join.unknown revel-:-25-:-dobj he-:-16-:-nsubj 
+#21852004 15 buy.unknown investor-:-13-:-lscmpx option-:-18-:-dobj 
+#21569079 5 pick.unknown sponsor-:-2-:-nsubj stock-:-7-:-dobj 
+#20054003 7 buy.unknown company-:-5-:-nsubj manufacturing_plant-:-10_11-:-dobj 
+#20583010 8 buy.unknown company-:-6-:-nsubj company-:-15-:-rscmpx 
+#20126021 12 build.unknown they-:-8-:-dobj 
+#20100019 10 join.unknown Mr._Hahn-:-7_8-:-lscmpx company-:-12-:-dobj 
+#20376014 21 value.unknown market-:-24-:-nmod part-:-11-:-lscmpx 
+#20334004 11 rise.unknown 12_%-:-12_13-:-dobj profit-:-1-:-nsubj #_135.2_million-:-15_16_17-:-nmod 
+#20093006 23 believe.unknown China-:-22-:-nsubj what-:-21-:-dobj 
+#21208064 3 climb.unknown Dow_Jones-:-1_2-:-nsubj 5_3/4-:-4_5-:-dobj 41-:-7-:-nmod 
+#20428003 9 rise.unknown export-:-8-:-nsubj 2.1_%-:-10_11-:-dobj 
+#20275003 19 buy.unknown stock-:-21-:-dobj shareholder-:-15-:-lscmpx 
+#21257014 3 value.unknown Mr._Lee-:-1_2-:-nsubj package-:-5-:-dobj 
+#21190005 18 join_in.unknown investment-:-21-:-nmod partner-:-16-:-lscmpx 
+#20456004 3 follow.unknown he-:-2-:-nsubj correct_path-:-5_6-:-dobj 
+#21446036 4 join.unknown Larry_Gainen-:-6_7-:-nmod they-:-1-:-dobj 
+#21442034 13 climb.unknown foreclosure-:-11-:-nsubj 1,482-:-16-:-nmod 
+#21122023 9 buy.unknown they-:-1-:-lscmpx acre-:-12-:-dobj 
+#21919002 13 buy.unknown Mr._Ruskin-:-4_5-:-lscmpx share-:-16-:-dobj 
+#20627021 21 buy.unknown clothes-:-18-:-dobj people-:-23-:-rscmpx 
+#21875115 8 purchase.unknown natural_gas-:-9_10-:-dobj Poland-:-1-:-lscmpx 
+#21057031 39 buy.unknown Tisch-:-38-:-nsubj stake-:-43-:-dobj 
+#20761040 15 buy.unknown that-:-14-:-nsubj land-:-19-:-rscmpx 
+#21086007 4 begin.unknown it-:-1-:-lscmpx construction-:-5-:-dobj 
+#20936036 14 buy.unknown dollar-:-15-:-dobj 
+#21190028 18 buy.unknown it-:-16-:-nsubj movie-:-19-:-dobj 
+#20758038 11 buy.unknown wife-:-10-:-nsubj book-:-13-:-dobj 
+#20639004 9 buy.unknown investor-:-5-:-nsubj stock-:-11-:-dobj 
+#21691028 10 begin.unknown we-:-4-:-lscmpx get_back-:-11_12-:-xcomp 
+#21285027 5 buy.unknown SIBV-MS_Holdings-:-7_8-:-nmod share-:-2-:-dobj 
+#20409075 20 decline.unknown membership-:-18-:-nsubj 
+#21291007 13 purchase.unknown York_Capital_Inc.-:-8_9_10-:-lscmpx interest-:-17-:-rscmpx 
+#21744017 8 build.unknown assembly_plant-:-4_5-:-lscmpx car-:-15-:-rscmpx 
+#21924036 11 join.unknown employee-:-10-:-strngx work_stoppage-:-13_14-:-dobj 
+#20155017 11 believe.unknown that-:-12-:-rscmpx 
+#21311030 5 climb.unknown earnings-:-4-:-nsubj refining_and_marketing-:-1_2_3-:-lscmpx $_33.3_million-:-7_8_9-:-nmod $_12.9_million-:-11_12_13-:-nmod 
+#21548005 3 post.unknown information_system-:-1_2-:-nsubj loss-:-5-:-dobj 
+#20578042 28 buy.unknown he_and_Mr._Peters-:-19_20_21_22-:-lscmpx MGM/UA_Entertainment_Co.-:-31_32_33-:-rscmpx 
+#20231022 5 rise.unknown 40-:-6-:-dobj Sumitomo_Realty_&_Development-:-1_2_3_4-:-nsubj 2170-:-8-:-nmod 
+#21569057 4 buy.unknown they-:-2-:-nsubj prepaid-tuition_plan-:-10_11-:-rscmpx 
+#22153040 6 begin.unknown Detroit-:-5-:-nsubj talk-:-7-:-xcomp 
+#21052012 6 buy.unknown people-:-3-:-nsubj anything-:-7-:-dobj 
+#21319035 15 buy.unknown share-:-17-:-dobj Marc_Fournier-:-7_8-:-lscmpx 
+#21319035 14 begin.unknown Marc_Fournier-:-7_8-:-lscmpx buy-:-15-:-xcomp 
+#20349020 6 buy.unknown trader-:-5-:-nsubj stock-:-12-:-rscmpx 
+#20978007 6 believe.unknown they-:-5-:-nsubj buy_program-:-13_14-:-rscmpx 
+#21167001 6 buy.unknown Lion_Nathan_Ltd.-:-1_2_3-:-lscmpx franchise-:-8-:-dobj 
+#20900011 29 join.unknown who-:-26-:-nsubj board-:-34-:-dobj 
+#21094047 16 begin.unknown president-:-15-:-nsubj lower-:-18-:-xcomp 
+#20286023 15 join.unknown who-:-14-:-nsubj Nissan-:-16-:-dobj 
+#21043002 13 buy.unknown investor-:-11-:-lscmpx stock-:-20-:-dobj 
+#21411062 12 buy.unknown team-:-14-:-dobj he-:-11-:-nsubj 
+#21145015 10 value.unknown it-:-9-:-nsubj 
+#21822023 20 give.unknown Wall_Street-:-5_6-:-lscmpx lender-:-21-:-iobj stake-:-24-:-dobj 
+#20376005 11 value.unknown company-:-14-:-dobj 
+#21586036 12 buy.unknown who-:-10-:-nsubj fur-:-13-:-dobj 
+#20036029 3 fall.unknown shipment-:-2-:-nsubj 1.6_%-:-4_5-:-dobj $_234.4_billion-:-7_8_9-:-nmod factory-:-1-:-lscmpx 
+#20409066 6 join.unknown who-:-5-:-nsubj club-:-8-:-dobj 
+#21154058 14 buy.unknown they-:-13-:-nsubj fee-:-40-:-rscmpx 
+#21678005 22 begin.unknown work-:-23-:-xcomp Mr._Kelly-:-20_21-:-nsubj 
+#21320024 30 buy.unknown contract-:-31-:-dobj short_seller-:-20_21-:-lscmpx 
+#21753010 8 build.unknown pipeline-:-10-:-dobj 
+#21587011 3 begin.unknown official-:-2-:-nsubj post-:-4-:-xcomp 
+#20765092 7 believe.unknown place-:-12-:-ccomp business_leader_and_other-:-2_3_4_5-:-nsubj 
+#20570011 3 begin.unknown Gabelli_Group-:-1_2-:-nsubj raise-:-4-:-xcomp 
+#21603045 12 value.unknown he-:-11-:-nsubj which-:-10-:-dobj 
+#20996028 9 join.unknown congressman-:-7-:-lscmpx team-:-11-:-dobj 
+#21455018 19 make.unknown polish_center-:-13_14-:-lscmpx aluminum_,_steel_and_glass-:-21_22_23_24_25-:-nmod 
+#20034038 6 buy.unknown investor-:-3-:-nsubj fund-:-8-:-dobj 
+#20760006 20 rise.unknown 2_%-:-21_22-:-dobj operating_profit-:-13_14-:-nsubj segment-:-19-:-strngx 
+#21065053 17 join.unknown partner-:-15-:-nsubj department-:-22-:-rscmpx 
+#21446046 2 join.unknown Illinois-:-1-:-nsubj state_and_state-:-5_13_15-:-dobj 
+#20340002 18 buy.unknown unit-:-13-:-nsubj share-:-21-:-dobj 
+#21201009 7 buy.unknown Bear_,_Stearns-:-4_5_6-:-nsubj share-:-12-:-dobj 
+#20666035 12 buy.unknown which-:-11-:-nsubj pulp-:-13-:-dobj 
+#20934014 31 buy.unknown they-:-30-:-nsubj they-:-32-:-dobj 
+#20177005 3 rise.unknown 7.84_yen-:-5_6-:-nmod per-share_net-:-1_2-:-nsubj 6.53_yen-:-8_9-:-nmod 
+#21613009 15 fall.unknown 7.61_%-:-17_18-:-nmod 7.82_%-:-20_21-:-nmod average_yield-:-13_14-:-nsubj 
+#21036038 8 rise.unknown AMR-:-1-:-nsubj 3_3/8-:-9_10-:-dobj 72_1/4-:-12_13-:-nmod 
+#21512018 36 believe.unknown he-:-35-:-nsubj what-:-34-:-dobj 
+#20967007 16 begin.unknown collect-:-17-:-xcomp state-:-15-:-nsubj 
+#20560002 19 join.unknown Westinghouse-:-3-:-lscmpx legion-:-22-:-dobj 
+#21540002 27 value.unknown proposal-:-3-:-dobj 
+#20997001 17 buy_time.unknown troubled_SCI_Television_Inc.-:-1_2_3_4-:-lscmpx sell_and_pay-:-20_22_23-:-rscmpx 
+#20994090 7 build.unknown hotel-:-5-:-nsubj retail_complex-:-9_10-:-dobj 
+#21944031 5 buy.unknown director-:-4-:-nsubj share-:-9-:-dobj 
+#21723042 3 fall.unknown Sun_Alliance-:-1_2-:-nsubj 1-:-4-:-dobj 
+#21560009 17 buy.unknown check-:-6-:-dobj 
+#20721003 11 purchase.unknown it-:-4-:-lscmpx share-:-16-:-rscmpx 
+#20679007 8 buy.unknown Hewlett-Packard-:-6-:-nsubj share-:-11-:-dobj 

@@ -19,3 +19,5 @@ For the gold data see LINK TO DATA
 The output can be used for evaluation in the 3 subtasks. For subtask 2.2, you can browse the source code and choose "Merging" of semantic rols. 
 
 
+[1] http://aclweb.org/anthology/S18-2016
+[2] https://arxiv.org/pdf/1705.04253

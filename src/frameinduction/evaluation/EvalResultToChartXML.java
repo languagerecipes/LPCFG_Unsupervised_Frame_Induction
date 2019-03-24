@@ -183,9 +183,9 @@ public class EvalResultToChartXML {
             entropyVMeasure[i] = ev.getEntropyVMeasure();
 
             //g 9
-            sysClusterNum[i] = ev.getSysClusterNum();
+            sysClusterNum[i] = (double) ev.getSysClusterNum();
 
-            countValidParses[i] = ev.getCountValidParses();
+            countValidParses[i] = (double)ev.getCountValidParses();
 
             likelihood[i] = ev.getLikelihood();
 
@@ -193,8 +193,8 @@ public class EvalResultToChartXML {
 
             bestParseLikelihood[i] = ev.getLikelihoodForBestParses();
             bestTopNParseLikelihood[i] = ev.getLikelihoodForChosenNBestParses();
-            countUnaryRules[i] = ev.getNumberOFUnaryRules();
-            countBinRules[i] = ev.getNumberOfBinRules();
+            countUnaryRules[i] = (double)ev.getNumberOFUnaryRules();
+            countBinRules[i] = (double)ev.getNumberOfBinRules();
 
         }
 
@@ -316,9 +316,9 @@ public class EvalResultToChartXML {
             entropyVMeasure[i] = ev.getEntropyVMeasure();
 
             //g 9
-            sysClusterNum[i] = ev.getSysClusterNum();
+            sysClusterNum[i] = (double)ev.getSysClusterNum();
 
-            countValidParses[i] = ev.getCountValidParses();
+            countValidParses[i] = (double)ev.getCountValidParses();
 
             likelihood[i] = ev.getLikelihood();
 
@@ -326,8 +326,8 @@ public class EvalResultToChartXML {
 
             bestParseLikelihood[i] = ev.getLikelihoodForBestParses();
             bestTopNParseLikelihood[i]= ev.getLikelihoodForChosenNBestParses();
-            countUnaryRules[i] = ev.getNumberOFUnaryRules();
-            countBinRules[i] = ev.getNumberOfBinRules();
+            countUnaryRules[i] = (double)ev.getNumberOFUnaryRules();
+            countBinRules[i] = (double)ev.getNumberOfBinRules();
 
         }
 
@@ -450,17 +450,17 @@ public class EvalResultToChartXML {
             entropyVMeasure[i] = evBaseline.getEntropyVMeasure();
 
             //g 9
-            sysClusterNum[i] = evBaseline.getSysClusterNum();
+            sysClusterNum[i] = (double)evBaseline.getSysClusterNum();
 
-            countValidParses[i] = evBaseline.getCountValidParses();
+            countValidParses[i] = (double)evBaseline.getCountValidParses();
 
             likelihood[i] = evBaseline.getLikelihood();
 
             changeLikelihood[i] = evBaseline.getChangeInLikelihood();
             bestTopNParseLikelihood[i] = evBaseline.getLikelihoodForChosenNBestParses();
             bestParseLikelihood[i] = evBaseline.getLikelihoodForBestParses();
-            countUnaryRules[i] = evBaseline.getNumberOFUnaryRules();
-            countBinRules[i] = evBaseline.getNumberOfBinRules();
+            countUnaryRules[i] =(double) evBaseline.getNumberOFUnaryRules();
+            countBinRules[i] =(double) evBaseline.getNumberOfBinRules();
 
         }
 

@@ -63,11 +63,15 @@ public class SplitMergeSplitMerge {
     private static String inputFragmentTemplate = "task.stx.template";//../lr/treebanks/stanford-parse-conllu.txt";
     private static int maxIterationSplitMErgePerBatch = 1;
     private static String rootNameToUse = "experiment/";
-    private static int BATCH_SIZE = 500;
+    private static int BATCH_SIZE = 4500;
     private static String logLevelRequested = "Fine"; // to implement
 
     public static void main(String[] args) throws Exception {
         
+        if(args.length!=2){
+            System.out.println("Please provide path to\n\tinput-feat-structure.txt and\n\t sparese-embedded-vectors.txt ");
+        return;
+        }
         inputFragmentTemplate = args[0];
         VECTOR_FILE = args[1];
         
